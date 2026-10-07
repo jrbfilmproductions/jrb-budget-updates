@@ -1,0 +1,7 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "mensaje": "¡Nueva versión disponible con mejoras de rendimiento!",
+  "urlUpdate": "https://github.com/jrbfilmproductions/jrb-budget-updates/releases/download/v1.0.0/app-release.apk",
+  "obligatorio": false
+}
