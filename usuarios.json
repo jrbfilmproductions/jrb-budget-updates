@@ -1,0 +1,18 @@
+{
+  "usuarios": [
+    {
+      "username": "jeremy",
+      "password": "Jrb.77610496865",
+      "nombre": "Jeremy (SuperAdmin)",
+      "esAdmin": true,
+      "permisos": ["all"]
+    },
+    {
+      "username": "esther",
+      "password": "esther123",
+      "nombre": "Esther (Colaboradora 3D)",
+      "esAdmin": false,
+      "permisos": ["pantalla_3d", "generar_pdf"]
+    }
+  ]
+}
