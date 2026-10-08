@@ -1,11 +1,11 @@
 {
   "filamentos": [
     {
-      "id": "1791475632864",
-      "marca": "paco",
+      "id": "1791477543264",
+      "marca": "sugraher",
       "tipo": "PLA Basic",
-      "colorName": "Blanco",
-      "colorHex": 4294967295,
+      "colorName": "Amarillo",
+      "colorHex": 4294961979,
       "precioKilo": 21.989999771118164,
       "gramosDisponibles": 1000,
       "estadoStock": "En Stock"
