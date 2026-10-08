@@ -17,7 +17,6 @@
       "esAdmin": false,
       "permisos": [
         "pantalla_3d",
-        "pantalla_film",
         "generar_pdf"
       ],
       "requiereCambioPassword": false
