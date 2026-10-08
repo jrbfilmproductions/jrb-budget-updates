@@ -1649,6 +1649,16 @@
       "precioKilo": 19,
       "gramosDisponibles": 1000,
       "estadoStock": "Comprar"
+    },
+    {
+      "id": "1791493366767",
+      "marca": "bambu lab",
+      "tipo": "PLA Metal",
+      "colorName": "Plata",
+      "colorHex": 4290822336,
+      "precioKilo": 21.989999771118164,
+      "gramosDisponibles": 1000,
+      "estadoStock": "En Stock"
     }
   ]
 }
