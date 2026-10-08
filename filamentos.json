@@ -270,7 +270,6 @@
       "gramosDisponibles": 1000,
       "estadoStock": "Comprar"
     },
-
     {
       "id": "PLA-BAM-BAS-001",
       "marca": "bambu labs",
@@ -521,7 +520,6 @@
       "gramosDisponibles": 1000,
       "estadoStock": "Comprar"
     },
-
     {
       "id": "PLA-BAM-MAT-001",
       "marca": "bambu labs",
@@ -712,7 +710,6 @@
       "gramosDisponibles": 1000,
       "estadoStock": "Comprar"
     },
-
     {
       "id": "PLA-BAM-MET-001",
       "marca": "bambu labs",
@@ -763,7 +760,6 @@
       "gramosDisponibles": 1000,
       "estadoStock": "Comprar"
     },
-
     {
       "id": "PLA-BAM-WOD-001",
       "marca": "bambu labs",
@@ -804,7 +800,6 @@
       "gramosDisponibles": 1000,
       "estadoStock": "Comprar"
     },
-
     {
       "id": "PLA-BAM-MAR-001",
       "marca": "bambu labs",
@@ -815,7 +810,6 @@
       "gramosDisponibles": 1000,
       "estadoStock": "Comprar"
     },
-
     {
       "id": "PLA-SUG-PAS-001",
       "marca": "sugraher",
@@ -866,7 +860,6 @@
       "gramosDisponibles": 1000,
       "estadoStock": "Comprar"
     },
-
     {
       "id": "PLA-SUG-IRI-001",
       "marca": "sugraher",
@@ -917,7 +910,6 @@
       "gramosDisponibles": 1000,
       "estadoStock": "Comprar"
     },
-
     {
       "id": "PLA-SUG-SIL-001",
       "marca": "sugraher",
@@ -958,7 +950,6 @@
       "gramosDisponibles": 1000,
       "estadoStock": "Comprar"
     },
-
     {
       "id": "PLA-SUG-GLI-001",
       "marca": "sugraher",
@@ -1019,7 +1010,6 @@
       "gramosDisponibles": 1000,
       "estadoStock": "Comprar"
     },
-
     {
       "id": "PLA-BAM-SIL-001",
       "marca": "bambu labs",
@@ -1130,7 +1120,6 @@
       "gramosDisponibles": 1000,
       "estadoStock": "Comprar"
     },
-
     {
       "id": "PLA-BAM-MUL-001",
       "marca": "bambu labs",
@@ -1231,7 +1220,6 @@
       "gramosDisponibles": 1000,
       "estadoStock": "Comprar"
     },
-
     {
       "id": "PLA-REC-001",
       "marca": "recreus",
@@ -1252,7 +1240,6 @@
       "gramosDisponibles": 1000,
       "estadoStock": "Comprar"
     },
-
     {
       "id": "PLA-SAK-001",
       "marca": "sakata 3d",
@@ -1503,7 +1490,6 @@
       "gramosDisponibles": 1000,
       "estadoStock": "Comprar"
     },
-
     {
       "id": "PLA-SAK-SIL-001",
       "marca": "sakata 3d",
@@ -1554,7 +1540,6 @@
       "gramosDisponibles": 1000,
       "estadoStock": "Comprar"
     },
-
     {
       "id": "PLA-SAK-GRA-001",
       "marca": "sakata 3d",
@@ -1565,7 +1550,6 @@
       "gramosDisponibles": 1000,
       "estadoStock": "Comprar"
     },
-
     {
       "id": "PLA-SAK-WOD-001",
       "marca": "sakata 3d",
@@ -1596,7 +1580,6 @@
       "gramosDisponibles": 1000,
       "estadoStock": "Comprar"
     },
-
     {
       "id": "PLA-SAK-GLA-001",
       "marca": "sakata 3d",
@@ -1637,7 +1620,6 @@
       "gramosDisponibles": 1000,
       "estadoStock": "Comprar"
     },
-
     {
       "id": "PLA-SAK-QUA-001",
       "marca": "sakata 3d",
@@ -1658,7 +1640,6 @@
       "gramosDisponibles": 1000,
       "estadoStock": "Comprar"
     },
-
     {
       "id": "PLA-SAK-HSP-001",
       "marca": "sakata 3d",
