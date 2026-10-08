@@ -1,1 +1,64 @@
-
+{
+  "filamentos": [
+    {
+      "id": "1791297596545",
+      "marca": "",
+      "tipo": "Bambu Lab PLA Basic",
+      "colorName": "Naranja",
+      "colorHex": 4294940672,
+      "precioKilo": 21.989999771118164,
+      "gramosDisponibles": 0,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "1791297612490",
+      "marca": "",
+      "tipo": "Bambu Lab PLA Basic",
+      "colorName": "Natural",
+      "colorHex": 4294309340,
+      "precioKilo": 21.989999771118164,
+      "gramosDisponibles": 923.0999755859375,
+      "estadoStock": "En Stock"
+    },
+    {
+      "id": "1791297873940",
+      "marca": "paco",
+      "tipo": "Bambu Lab PLA Basic",
+      "colorName": "Blanco",
+      "colorHex": 4294967295,
+      "precioKilo": 21.989999771118164,
+      "gramosDisponibles": 762.5999755859375,
+      "estadoStock": "En Stock"
+    },
+    {
+      "id": "1791300289561",
+      "marca": "",
+      "tipo": "Bambu Lab PLA Basic",
+      "colorName": "Gris",
+      "colorHex": 4288585374,
+      "precioKilo": 21.989999771118164,
+      "gramosDisponibles": 842,
+      "estadoStock": "En Stock"
+    },
+    {
+      "id": "1791314258805",
+      "marca": "22",
+      "tipo": "PLA Silk",
+      "colorName": "Oro",
+      "colorHex": 4294956800,
+      "precioKilo": 21.989999771118164,
+      "gramosDisponibles": 975,
+      "estadoStock": "En Stock"
+    },
+    {
+      "id": "1791475632864",
+      "marca": "paco",
+      "tipo": "PLA Basic",
+      "colorName": "Blanco",
+      "colorHex": 4294967295,
+      "precioKilo": 21.989999771118164,
+      "gramosDisponibles": 1000,
+      "estadoStock": "En Stock"
+    }
+  ]
+}
