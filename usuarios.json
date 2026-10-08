@@ -20,17 +20,6 @@
         "generar_pdf"
       ],
       "requiereCambioPassword": false
-    },
-    {
-      "username": "paca",
-      "password": "Temp1234*",
-      "nombre": "paca",
-      "esAdmin": false,
-      "permisos": [
-        "pantalla_3d",
-        "generar_pdf"
-      ],
-      "requiereCambioPassword": true
     }
   ]
 }
