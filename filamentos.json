@@ -1,24 +1,1673 @@
 {
   "filamentos": [
     {
-      "id": "1791477543264",
+      "id": "PLA-SUG-REC-001",
       "marca": "sugraher",
-      "tipo": "PLA Basic",
-      "colorName": "Amarillo",
-      "colorHex": 4294961979,
-      "precioKilo": 21.989999771118164,
+      "tipo": "PLA Recycled",
+      "colorName": "White",
+      "colorHex": 4294967295,
+      "precioKilo": 16.45,
       "gramosDisponibles": 1000,
       "estadoStock": "Comprar"
     },
     {
-      "id": "1791477553248",
+      "id": "PLA-SUG-REC-002",
+      "marca": "sugraher",
+      "tipo": "PLA Recycled",
+      "colorName": "Cold White",
+      "colorHex": 4294967040,
+      "precioKilo": 16.45,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-REC-003",
+      "marca": "sugraher",
+      "tipo": "PLA Recycled",
+      "colorName": "Yellow",
+      "colorHex": 4294901760,
+      "precioKilo": 16.45,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-REC-004",
+      "marca": "sugraher",
+      "tipo": "PLA Recycled",
+      "colorName": "Traffic",
+      "colorHex": 4294934528,
+      "precioKilo": 16.45,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-REC-005",
+      "marca": "sugraher",
+      "tipo": "PLA Recycled",
+      "colorName": "Orange",
+      "colorHex": 4294944000,
+      "precioKilo": 16.45,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-REC-006",
+      "marca": "sugraher",
+      "tipo": "PLA Recycled",
+      "colorName": "Red",
+      "colorHex": 4294901760,
+      "precioKilo": 16.45,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-REC-007",
+      "marca": "sugraher",
+      "tipo": "PLA Recycled",
+      "colorName": "Grenade",
+      "colorHex": 4283760640,
+      "precioKilo": 16.45,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-REC-008",
+      "marca": "sugraher",
+      "tipo": "PLA Recycled",
+      "colorName": "Green",
+      "colorHex": 4278255360,
+      "precioKilo": 16.45,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-REC-009",
+      "marca": "sugraher",
+      "tipo": "PLA Recycled",
+      "colorName": "May Green",
+      "colorHex": 4283215696,
+      "precioKilo": 16.45,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-REC-010",
+      "marca": "sugraher",
+      "tipo": "PLA Recycled",
+      "colorName": "Green Army",
+      "colorHex": 4284449608,
+      "precioKilo": 16.45,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-REC-011",
+      "marca": "sugraher",
+      "tipo": "PLA Recycled",
+      "colorName": "Dark Green",
+      "colorHex": 4278215680,
+      "precioKilo": 16.45,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-REC-012",
+      "marca": "sugraher",
+      "tipo": "PLA Recycled",
+      "colorName": "Light Green",
+      "colorHex": 4287688336,
+      "precioKilo": 16.45,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-REC-013",
+      "marca": "sugraher",
+      "tipo": "PLA Recycled",
+      "colorName": "Light Blue",
+      "colorHex": 4286945535,
+      "precioKilo": 16.45,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-REC-014",
+      "marca": "sugraher",
+      "tipo": "PLA Recycled",
+      "colorName": "Blue",
+      "colorHex": 4278190335,
+      "precioKilo": 16.45,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-REC-015",
+      "marca": "sugraher",
+      "tipo": "PLA Recycled",
+      "colorName": "Signal Blue",
+      "colorHex": 4278255615,
+      "precioKilo": 16.45,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-REC-016",
+      "marca": "sugraher",
+      "tipo": "PLA Recycled",
+      "colorName": "Dark Blue",
+      "colorHex": 4278190208,
+      "precioKilo": 16.45,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-REC-017",
+      "marca": "sugraher",
+      "tipo": "PLA Recycled",
+      "colorName": "Violet",
+      "colorHex": 4286578816,
+      "precioKilo": 16.45,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-REC-018",
+      "marca": "sugraher",
+      "tipo": "PLA Recycled",
+      "colorName": "Lilac",
+      "colorHex": 4291599048,
+      "precioKilo": 16.45,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-REC-019",
+      "marca": "sugraher",
+      "tipo": "PLA Recycled",
+      "colorName": "Purple",
+      "colorHex": 4288421631,
+      "precioKilo": 16.45,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-REC-020",
+      "marca": "sugraher",
+      "tipo": "PLA Recycled",
+      "colorName": "Pink",
+      "colorHex": 4294902015,
+      "precioKilo": 16.45,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-REC-021",
+      "marca": "sugraher",
+      "tipo": "PLA Recycled",
+      "colorName": "Coral",
+      "colorHex": 4294934352,
+      "precioKilo": 16.45,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-REC-022",
+      "marca": "sugraher",
+      "tipo": "PLA Recycled",
+      "colorName": "Brown",
+      "colorHex": 4283782485,
+      "precioKilo": 16.45,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-REC-023",
+      "marca": "sugraher",
+      "tipo": "PLA Recycled",
+      "colorName": "Gold",
+      "colorHex": 4294956800,
+      "precioKilo": 16.45,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-REC-024",
+      "marca": "sugraher",
+      "tipo": "PLA Recycled",
+      "colorName": "Light Gray",
+      "colorHex": 4290822336,
+      "precioKilo": 16.45,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-REC-025",
+      "marca": "sugraher",
+      "tipo": "PLA Recycled",
+      "colorName": "Silver",
+      "colorHex": 4290822336,
+      "precioKilo": 16.45,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-REC-026",
+      "marca": "sugraher",
+      "tipo": "PLA Recycled",
+      "colorName": "Dark Grey",
+      "colorHex": 4286611584,
+      "precioKilo": 16.45,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-REC-027",
+      "marca": "sugraher",
+      "tipo": "PLA Recycled",
+      "colorName": "Black",
+      "colorHex": 4278190080,
+      "precioKilo": 16.45,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+
+    {
+      "id": "PLA-BAM-BAS-001",
       "marca": "bambu labs",
       "tipo": "PLA Basic",
-      "colorName": "Negro",
-      "colorHex": 4280427042,
-      "precioKilo": 21.989999771118164,
+      "colorName": "Jade White",
+      "colorHex": 4294506751,
+      "precioKilo": 20.50,
       "gramosDisponibles": 1000,
-      "estadoStock": "En Stock"
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-BAS-002",
+      "marca": "bambu labs",
+      "tipo": "PLA Basic",
+      "colorName": "Yellow",
+      "colorHex": 4294901760,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-BAS-003",
+      "marca": "bambu labs",
+      "tipo": "PLA Basic",
+      "colorName": "Sunflower Yellow",
+      "colorHex": 4294944000,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-BAS-004",
+      "marca": "bambu labs",
+      "tipo": "PLA Basic",
+      "colorName": "Pumpkin Orange",
+      "colorHex": 4294927360,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-BAS-005",
+      "marca": "bambu labs",
+      "tipo": "PLA Basic",
+      "colorName": "Orange",
+      "colorHex": 4294944000,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-BAS-006",
+      "marca": "bambu labs",
+      "tipo": "PLA Basic",
+      "colorName": "Red",
+      "colorHex": 4294901760,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-BAS-007",
+      "marca": "bambu labs",
+      "tipo": "PLA Basic",
+      "colorName": "Bambu Green",
+      "colorHex": 4278238720,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-BAS-008",
+      "marca": "bambu labs",
+      "tipo": "PLA Basic",
+      "colorName": "Mistletoe Green",
+      "colorHex": 4283215696,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-BAS-009",
+      "marca": "bambu labs",
+      "tipo": "PLA Basic",
+      "colorName": "Turquoise",
+      "colorHex": 4278255615,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-BAS-010",
+      "marca": "bambu labs",
+      "tipo": "PLA Basic",
+      "colorName": "Cyan",
+      "colorHex": 4278255615,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-BAS-011",
+      "marca": "bambu labs",
+      "tipo": "PLA Basic",
+      "colorName": "Blue",
+      "colorHex": 4278190335,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-BAS-012",
+      "marca": "bambu labs",
+      "tipo": "PLA Basic",
+      "colorName": "Indigo Purple",
+      "colorHex": 4283105410,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-BAS-013",
+      "marca": "bambu labs",
+      "tipo": "PLA Basic",
+      "colorName": "Purple",
+      "colorHex": 4288421631,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-BAS-014",
+      "marca": "bambu labs",
+      "tipo": "PLA Basic",
+      "colorName": "Magenta",
+      "colorHex": 4294902015,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-BAS-015",
+      "marca": "bambu labs",
+      "tipo": "PLA Basic",
+      "colorName": "Pink",
+      "colorHex": 4294902015,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-BAS-016",
+      "marca": "bambu labs",
+      "tipo": "PLA Basic",
+      "colorName": "Beige",
+      "colorHex": 4293519359,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-BAS-017",
+      "marca": "bambu labs",
+      "tipo": "PLA Basic",
+      "colorName": "Bronze",
+      "colorHex": 4287061504,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-BAS-018",
+      "marca": "bambu labs",
+      "tipo": "PLA Basic",
+      "colorName": "Brown",
+      "colorHex": 4283782485,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-BAS-019",
+      "marca": "bambu labs",
+      "tipo": "PLA Basic",
+      "colorName": "Cocoa Brown",
+      "colorHex": 4281159716,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-BAS-020",
+      "marca": "bambu labs",
+      "tipo": "PLA Basic",
+      "colorName": "Gold",
+      "colorHex": 4294956800,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-BAS-021",
+      "marca": "bambu labs",
+      "tipo": "PLA Basic",
+      "colorName": "Gray",
+      "colorHex": 4286611584,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-BAS-022",
+      "marca": "bambu labs",
+      "tipo": "PLA Basic",
+      "colorName": "Silver",
+      "colorHex": 4290822336,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-BAS-023",
+      "marca": "bambu labs",
+      "tipo": "PLA Basic",
+      "colorName": "Blue Gray",
+      "colorHex": 4284636159,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-BAS-024",
+      "marca": "bambu labs",
+      "tipo": "PLA Basic",
+      "colorName": "Dark Grey",
+      "colorHex": 4286611584,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-BAS-025",
+      "marca": "bambu labs",
+      "tipo": "PLA Basic",
+      "colorName": "Black",
+      "colorHex": 4278190080,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+
+    {
+      "id": "PLA-BAM-MAT-001",
+      "marca": "bambu labs",
+      "tipo": "PLA Matte",
+      "colorName": "Ivory White",
+      "colorHex": 4294309365,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-MAT-002",
+      "marca": "bambu labs",
+      "tipo": "PLA Matte",
+      "colorName": "Lemon Yellow",
+      "colorHex": 4294967040,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-MAT-003",
+      "marca": "bambu labs",
+      "tipo": "PLA Matte",
+      "colorName": "Mandarin Orange",
+      "colorHex": 4294944000,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-MAT-004",
+      "marca": "bambu labs",
+      "tipo": "PLA Matte",
+      "colorName": "Scarlet Red",
+      "colorHex": 4294901760,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-MAT-005",
+      "marca": "bambu labs",
+      "tipo": "PLA Matte",
+      "colorName": "Dark Red",
+      "colorHex": 4281532416,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-MAT-006",
+      "marca": "bambu labs",
+      "tipo": "PLA Matte",
+      "colorName": "Apple Green",
+      "colorHex": 4281343488,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-MAT-007",
+      "marca": "bambu labs",
+      "tipo": "PLA Matte",
+      "colorName": "Grass Green",
+      "colorHex": 4278255360,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-MAT-008",
+      "marca": "bambu labs",
+      "tipo": "PLA Matte",
+      "colorName": "Dark Green",
+      "colorHex": 4278215680,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-MAT-009",
+      "marca": "bambu labs",
+      "tipo": "PLA Matte",
+      "colorName": "Ice Blue",
+      "colorHex": 4289070847,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-MAT-010",
+      "marca": "bambu labs",
+      "tipo": "PLA Matte",
+      "colorName": "Marine Blue",
+      "colorHex": 4278190335,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-MAT-011",
+      "marca": "bambu labs",
+      "tipo": "PLA Matte",
+      "colorName": "Plum",
+      "colorHex": 4284955315,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-MAT-012",
+      "marca": "bambu labs",
+      "tipo": "PLA Matte",
+      "colorName": "Sakura Pink",
+      "colorHex": 4294104299,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-MAT-013",
+      "marca": "bambu labs",
+      "tipo": "PLA Matte",
+      "colorName": "Desert Tan",
+      "colorHex": 4293322360,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-MAT-014",
+      "marca": "bambu labs",
+      "tipo": "PLA Matte",
+      "colorName": "Bone White",
+      "colorHex": 4294175477,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-MAT-015",
+      "marca": "bambu labs",
+      "tipo": "PLA Matte",
+      "colorName": "Latte Brown",
+      "colorHex": 4291349970,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-MAT-016",
+      "marca": "bambu labs",
+      "tipo": "PLA Matte",
+      "colorName": "Caramel",
+      "colorHex": 4291288857,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-MAT-017",
+      "marca": "bambu labs",
+      "tipo": "PLA Matte",
+      "colorName": "Dark Brown",
+      "colorHex": 4281413888,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-MAT-018",
+      "marca": "bambu labs",
+      "tipo": "PLA Matte",
+      "colorName": "Ash Gray",
+      "colorHex": 4286611584,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-MAT-019",
+      "marca": "bambu labs",
+      "tipo": "PLA Matte",
+      "colorName": "Charcoal",
+      "colorHex": 4283124552,
+      "precioKilo": 20.50,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+
+    {
+      "id": "PLA-BAM-MET-001",
+      "marca": "bambu labs",
+      "tipo": "PLA Metal",
+      "colorName": "Oxide Green Metallic",
+      "colorHex": 4283914240,
+      "precioKilo": 28.46,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-MET-002",
+      "marca": "bambu labs",
+      "tipo": "PLA Metal",
+      "colorName": "Metallic Cobalt Blue",
+      "colorHex": 4278190335,
+      "precioKilo": 28.46,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-MET-003",
+      "marca": "bambu labs",
+      "tipo": "PLA Metal",
+      "colorName": "Copper Brown Metallic",
+      "colorHex": 4286575104,
+      "precioKilo": 28.46,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-MET-004",
+      "marca": "bambu labs",
+      "tipo": "PLA Metal",
+      "colorName": "Iridium Gold Metallic",
+      "colorHex": 4294956800,
+      "precioKilo": 28.46,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-MET-005",
+      "marca": "bambu labs",
+      "tipo": "PLA Metal",
+      "colorName": "Iron Gray Metallic",
+      "colorHex": 4286611584,
+      "precioKilo": 28.46,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+
+    {
+      "id": "PLA-BAM-WOD-001",
+      "marca": "bambu labs",
+      "tipo": "PLA Wood",
+      "colorName": "Rose Wood",
+      "colorHex": 4289208320,
+      "precioKilo": 28.46,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-WOD-002",
+      "marca": "bambu labs",
+      "tipo": "PLA Wood",
+      "colorName": "Clay Brown",
+      "colorHex": 4287983514,
+      "precioKilo": 28.46,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-WOD-003",
+      "marca": "bambu labs",
+      "tipo": "PLA Wood",
+      "colorName": "Classic Birch",
+      "colorHex": 4293914602,
+      "precioKilo": 28.46,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-WOD-004",
+      "marca": "bambu labs",
+      "tipo": "PLA Wood",
+      "colorName": "Black Walnut",
+      "colorHex": 4281413888,
+      "precioKilo": 28.46,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+
+    {
+      "id": "PLA-BAM-MAR-001",
+      "marca": "bambu labs",
+      "tipo": "PLA Marble",
+      "colorName": "White Marble",
+      "colorHex": 4294638330,
+      "precioKilo": 28.46,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+
+    {
+      "id": "PLA-SUG-PAS-001",
+      "marca": "sugraher",
+      "tipo": "PLA Pastel",
+      "colorName": "Vanilla",
+      "colorHex": 4294175477,
+      "precioKilo": 19.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-PAS-002",
+      "marca": "sugraher",
+      "tipo": "PLA Pastel",
+      "colorName": "Mint",
+      "colorHex": 4289839399,
+      "precioKilo": 19.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-PAS-003",
+      "marca": "sugraher",
+      "tipo": "PLA Pastel",
+      "colorName": "Aqua",
+      "colorHex": 4286578687,
+      "precioKilo": 19.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-PAS-004",
+      "marca": "sugraher",
+      "tipo": "PLA Pastel",
+      "colorName": "Lavender",
+      "colorHex": 4291611238,
+      "precioKilo": 19.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-PAS-005",
+      "marca": "sugraher",
+      "tipo": "PLA Pastel",
+      "colorName": "Quartz",
+      "colorHex": 4293781970,
+      "precioKilo": 19.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+
+    {
+      "id": "PLA-SUG-IRI-001",
+      "marca": "sugraher",
+      "tipo": "Smartfil PLA Iris",
+      "colorName": "Pearl",
+      "colorHex": 4294377215,
+      "precioKilo": 26.20,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-IRI-002",
+      "marca": "sugraher",
+      "tipo": "Smartfil PLA Iris",
+      "colorName": "Granate",
+      "colorHex": 4281532416,
+      "precioKilo": 26.20,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-IRI-003",
+      "marca": "sugraher",
+      "tipo": "Smartfil PLA Iris",
+      "colorName": "Alexandrite",
+      "colorHex": 4281671168,
+      "precioKilo": 26.20,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-IRI-004",
+      "marca": "sugraher",
+      "tipo": "Smartfil PLA Iris",
+      "colorName": "Topaz",
+      "colorHex": 4294956800,
+      "precioKilo": 26.20,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-IRI-005",
+      "marca": "sugraher",
+      "tipo": "Smartfil PLA Iris",
+      "colorName": "Tanzanite",
+      "colorHex": 4280756216,
+      "precioKilo": 26.20,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+
+    {
+      "id": "PLA-SUG-SIL-001",
+      "marca": "sugraher",
+      "tipo": "Smartfil PLA Silk",
+      "colorName": "Yellow Gold",
+      "colorHex": 4294956800,
+      "precioKilo": 19.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-SIL-002",
+      "marca": "sugraher",
+      "tipo": "Smartfil PLA Silk",
+      "colorName": "Red",
+      "colorHex": 4294901760,
+      "precioKilo": 19.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-SIL-003",
+      "marca": "sugraher",
+      "tipo": "Smartfil PLA Silk",
+      "colorName": "Blue",
+      "colorHex": 4278190335,
+      "precioKilo": 19.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-SIL-004",
+      "marca": "sugraher",
+      "tipo": "Smartfil PLA Silk",
+      "colorName": "Copper",
+      "colorHex": 4286575104,
+      "precioKilo": 19.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+
+    {
+      "id": "PLA-SUG-GLI-001",
+      "marca": "sugraher",
+      "tipo": "PLA Glitter",
+      "colorName": "Rojo",
+      "colorHex": 4294901760,
+      "precioKilo": 19.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-GLI-002",
+      "marca": "sugraher",
+      "tipo": "PLA Glitter",
+      "colorName": "Verde",
+      "colorHex": 4278255360,
+      "precioKilo": 19.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-GLI-003",
+      "marca": "sugraher",
+      "tipo": "PLA Glitter",
+      "colorName": "Blue",
+      "colorHex": 4278190335,
+      "precioKilo": 19.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-GLI-004",
+      "marca": "sugraher",
+      "tipo": "PLA Glitter",
+      "colorName": "Purple",
+      "colorHex": 4288421631,
+      "precioKilo": 19.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-GLI-005",
+      "marca": "sugraher",
+      "tipo": "PLA Glitter",
+      "colorName": "Plata",
+      "colorHex": 4290822336,
+      "precioKilo": 19.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SUG-GLI-006",
+      "marca": "sugraher",
+      "tipo": "PLA Glitter",
+      "colorName": "Black",
+      "colorHex": 4278190080,
+      "precioKilo": 19.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+
+    {
+      "id": "PLA-BAM-SIL-001",
+      "marca": "bambu labs",
+      "tipo": "Silk+",
+      "colorName": "White",
+      "colorHex": 4294967295,
+      "precioKilo": 24.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-SIL-002",
+      "marca": "bambu labs",
+      "tipo": "Silk+",
+      "colorName": "Candy Red",
+      "colorHex": 4294901760,
+      "precioKilo": 24.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-SIL-003",
+      "marca": "bambu labs",
+      "tipo": "Silk+",
+      "colorName": "Mint",
+      "colorHex": 4289839399,
+      "precioKilo": 24.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-SIL-004",
+      "marca": "bambu labs",
+      "tipo": "Silk+",
+      "colorName": "Candy Green",
+      "colorHex": 4278255360,
+      "precioKilo": 24.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-SIL-005",
+      "marca": "bambu labs",
+      "tipo": "Silk+",
+      "colorName": "Baby Blue",
+      "colorHex": 4286578687,
+      "precioKilo": 24.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-SIL-006",
+      "marca": "bambu labs",
+      "tipo": "Silk+",
+      "colorName": "Blue",
+      "colorHex": 4278190335,
+      "precioKilo": 24.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-SIL-007",
+      "marca": "bambu labs",
+      "tipo": "Silk+",
+      "colorName": "Purple",
+      "colorHex": 4288421631,
+      "precioKilo": 24.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-SIL-008",
+      "marca": "bambu labs",
+      "tipo": "Silk+",
+      "colorName": "Rose Gold",
+      "colorHex": 4291263232,
+      "precioKilo": 24.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-SIL-009",
+      "marca": "bambu labs",
+      "tipo": "Silk+",
+      "colorName": "Gold",
+      "colorHex": 4294956800,
+      "precioKilo": 24.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-SIL-010",
+      "marca": "bambu labs",
+      "tipo": "Silk+",
+      "colorName": "Silver",
+      "colorHex": 4290822336,
+      "precioKilo": 24.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-SIL-011",
+      "marca": "bambu labs",
+      "tipo": "Silk+",
+      "colorName": "Titan Gray",
+      "colorHex": 4284441192,
+      "precioKilo": 24.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+
+    {
+      "id": "PLA-BAM-MUL-001",
+      "marca": "bambu labs",
+      "tipo": "PLA Silk Multi-Color",
+      "colorName": "Dawn Radiance",
+      "colorHex": 4294940672,
+      "precioKilo": 28.46,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-MUL-002",
+      "marca": "bambu labs",
+      "tipo": "PLA Silk Multi-Color",
+      "colorName": "Mystic Magenta",
+      "colorHex": 4294902015,
+      "precioKilo": 28.46,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-MUL-003",
+      "marca": "bambu labs",
+      "tipo": "PLA Silk Multi-Color",
+      "colorName": "Blue Hawai",
+      "colorHex": 4278255615,
+      "precioKilo": 28.46,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-MUL-004",
+      "marca": "bambu labs",
+      "tipo": "PLA Silk Multi-Color",
+      "colorName": "Phantom Blue",
+      "colorHex": 4278190208,
+      "precioKilo": 28.46,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-MUL-005",
+      "marca": "bambu labs",
+      "tipo": "PLA Silk Multi-Color",
+      "colorName": "Neon City",
+      "colorHex": 4294902015,
+      "precioKilo": 28.46,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-MUL-006",
+      "marca": "bambu labs",
+      "tipo": "PLA Silk Multi-Color",
+      "colorName": "Aurora Purple",
+      "colorHex": 4288421631,
+      "precioKilo": 28.46,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-MUL-007",
+      "marca": "bambu labs",
+      "tipo": "PLA Silk Multi-Color",
+      "colorName": "Midnight Blaze",
+      "colorHex": 4281545523,
+      "precioKilo": 28.46,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-MUL-008",
+      "marca": "bambu labs",
+      "tipo": "PLA Silk Multi-Color",
+      "colorName": "South Beach",
+      "colorHex": 4286578687,
+      "precioKilo": 28.46,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-MUL-009",
+      "marca": "bambu labs",
+      "tipo": "PLA Silk Multi-Color",
+      "colorName": "Gilded Rose",
+      "colorHex": 4291263232,
+      "precioKilo": 28.46,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-BAM-MUL-010",
+      "marca": "bambu labs",
+      "tipo": "PLA Silk Multi-Color",
+      "colorName": "Velvet Eclipse",
+      "colorHex": 4280756216,
+      "precioKilo": 28.46,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+
+    {
+      "id": "PLA-REC-001",
+      "marca": "recreus",
+      "tipo": "PLA",
+      "colorName": "Rojo",
+      "colorHex": 4294901760,
+      "precioKilo": 17.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-REC-PUR-001",
+      "marca": "recreus",
+      "tipo": "PLA Purifier",
+      "colorName": "Natural",
+      "colorHex": 4294967295,
+      "precioKilo": 29.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+
+    {
+      "id": "PLA-SAK-001",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Ingeo",
+      "colorName": "White",
+      "colorHex": 4294967295,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-002",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Ingeo",
+      "colorName": "Marfil",
+      "colorHex": 4294638330,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-003",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Ingeo",
+      "colorName": "Yellow",
+      "colorHex": 4294901760,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-004",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Ingeo",
+      "colorName": "Orange Fresh",
+      "colorHex": 4294944000,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-005",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Ingeo",
+      "colorName": "Orange",
+      "colorHex": 4294944000,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-006",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Ingeo",
+      "colorName": "Rojo",
+      "colorHex": 4294901760,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-007",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Ingeo",
+      "colorName": "Verde",
+      "colorHex": 4278255360,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-008",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Ingeo",
+      "colorName": "Militar 2",
+      "colorHex": 4284449608,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-009",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Ingeo",
+      "colorName": "Militar 1",
+      "colorHex": 4283215696,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-010",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Ingeo",
+      "colorName": "Surf Green",
+      "colorHex": 4286578687,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-011",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Ingeo",
+      "colorName": "Celeste",
+      "colorHex": 4286945535,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-012",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Ingeo",
+      "colorName": "Solidary",
+      "colorHex": 4284636159,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-013",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Ingeo",
+      "colorName": "Blue",
+      "colorHex": 4278190335,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-014",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Ingeo",
+      "colorName": "Púrpura",
+      "colorHex": 4288421631,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-015",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Ingeo",
+      "colorName": "Fucsia",
+      "colorHex": 4294902015,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-016",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Ingeo",
+      "colorName": "Pink",
+      "colorHex": 4294902015,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-017",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Ingeo",
+      "colorName": "Terracota",
+      "colorHex": 4289208320,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-018",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Ingeo",
+      "colorName": "Skin Tone 2",
+      "colorHex": 4293192547,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-019",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Ingeo",
+      "colorName": "Skin Tone 1",
+      "colorHex": 4294045269,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-020",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Ingeo",
+      "colorName": "Natural",
+      "colorHex": 4294967295,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-021",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Ingeo",
+      "colorName": "Chocolate",
+      "colorHex": 4281089392,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-022",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Ingeo",
+      "colorName": "Dorado",
+      "colorHex": 4294956800,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-023",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Ingeo",
+      "colorName": "Gris",
+      "colorHex": 4286611584,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-024",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Ingeo",
+      "colorName": "Plata",
+      "colorHex": 4290822336,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-025",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Ingeo",
+      "colorName": "Black",
+      "colorHex": 4278190080,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+
+    {
+      "id": "PLA-SAK-SIL-001",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Ingeo Silk",
+      "colorName": "Sunset",
+      "colorHex": 4294940672,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-SIL-002",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Ingeo Silk",
+      "colorName": "Wine",
+      "colorHex": 4281532416,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-SIL-003",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Ingeo Silk",
+      "colorName": "Clover",
+      "colorHex": 4278255360,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-SIL-004",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Ingeo Silk",
+      "colorName": "Midnight",
+      "colorHex": 4278190208,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-SIL-005",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Ingeo Silk",
+      "colorName": "Artic",
+      "colorHex": 4294638330,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+
+    {
+      "id": "PLA-SAK-GRA-001",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Granito",
+      "colorName": "Granito",
+      "colorHex": 4286611584,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+
+    {
+      "id": "PLA-SAK-WOD-001",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Textura Madera",
+      "colorName": "White",
+      "colorHex": 4294967295,
+      "precioKilo": 27.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-WOD-002",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Textura Madera",
+      "colorName": "Arce",
+      "colorHex": 4293914602,
+      "precioKilo": 27.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-WOD-003",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Textura Madera",
+      "colorName": "Roble",
+      "colorHex": 4289208320,
+      "precioKilo": 27.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+
+    {
+      "id": "PLA-SAK-GLA-001",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Glass",
+      "colorName": "Yellow",
+      "colorHex": 4294901760,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-GLA-002",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Glass",
+      "colorName": "Orange",
+      "colorHex": 4294944000,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-GLA-003",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Glass",
+      "colorName": "Rojo",
+      "colorHex": 4294901760,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-GLA-004",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Glass",
+      "colorName": "Purple",
+      "colorHex": 4288421631,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+
+    {
+      "id": "PLA-SAK-QUA-001",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Quartz",
+      "colorName": "Naranja Flúor",
+      "colorHex": 4294944000,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+    {
+      "id": "PLA-SAK-QUA-002",
+      "marca": "sakata 3d",
+      "tipo": "PLA 850 Quartz",
+      "colorName": "Flúor Lima",
+      "colorHex": 4289790208,
+      "precioKilo": 18.95,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
+    },
+
+    {
+      "id": "PLA-SAK-HSP-001",
+      "marca": "sakata 3d",
+      "tipo": "PLA High Speed",
+      "colorName": "Blue",
+      "colorHex": 4278190335,
+      "precioKilo": 18.55,
+      "gramosDisponibles": 1000,
+      "estadoStock": "Comprar"
     }
   ]
 }
