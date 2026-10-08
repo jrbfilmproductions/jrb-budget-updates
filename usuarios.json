@@ -23,14 +23,14 @@
     },
     {
       "username": "prueba",
-      "password": "Temp1234*",
+      "password": "prueba1",
       "nombre": "prueba",
       "esAdmin": false,
       "permisos": [
         "pantalla_3d",
         "generar_pdf"
       ],
-      "requiereCambioPassword": true
+      "requiereCambioPassword": false
     },
     {
       "username": "paco",
