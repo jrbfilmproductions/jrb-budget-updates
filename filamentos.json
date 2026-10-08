@@ -928,7 +928,7 @@
       "colorHex": 4294901760,
       "precioKilo": 20,
       "gramosDisponibles": 1000,
-      "estadoStock": "Comprar"
+      "estadoStock": "En Stock"
     },
     {
       "id": "PLA-SUG-SIL-003",
