@@ -1,7 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "mensaje": "¡Nueva versión disponible con mejoras de rendimiento!",
-  "urlUpdate": "https://github.com/jrbfilmproductions/jrb-budget-updates/releases/download/v1.0.0/app-release.apk",
+  "versionCode": 2,
+  "mensaje": "¡Nueva versión disponible con filtros avanzados de inventario y AMS!",
+  "urlUpdate": "https://github.com/jrbfilmproductions/jrb-budget-updates/releases/download/2/app-debug.apk",
   "obligatorio": false
 }
