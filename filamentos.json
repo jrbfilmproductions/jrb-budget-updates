@@ -11,26 +11,6 @@
       "estadoStock": "En Stock"
     },
     {
-      "id": "1791297873940",
-      "marca": "paco",
-      "tipo": "Bambu Lab PLA Basic",
-      "colorName": "Blanco",
-      "colorHex": 4294967295,
-      "precioKilo": 21.989999771118164,
-      "gramosDisponibles": 762.5999755859375,
-      "estadoStock": "En Stock"
-    },
-    {
-      "id": "1791300289561",
-      "marca": "",
-      "tipo": "Bambu Lab PLA Basic",
-      "colorName": "Gris",
-      "colorHex": 4288585374,
-      "precioKilo": 21.989999771118164,
-      "gramosDisponibles": 842,
-      "estadoStock": "En Stock"
-    },
-    {
       "id": "1791314258805",
       "marca": "22",
       "tipo": "PLA Silk",
