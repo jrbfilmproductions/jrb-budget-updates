@@ -277,7 +277,7 @@
       "colorName": "Jade White",
       "colorHex": 4294506751,
       "precioKilo": 21,
-      "gramosDisponibles": 950,
+      "gramosDisponibles": 863.2899780273438,
       "estadoStock": "Comprar"
     },
     {
@@ -327,7 +327,7 @@
       "colorName": "Red",
       "colorHex": 4294901760,
       "precioKilo": 21,
-      "gramosDisponibles": 980.52001953125,
+      "gramosDisponibles": 955.52001953125,
       "estadoStock": "Comprar"
     },
     {
@@ -377,7 +377,7 @@
       "colorName": "Blue",
       "colorHex": 4278190335,
       "precioKilo": 21,
-      "gramosDisponibles": 950.8400268554688,
+      "gramosDisponibles": 865.4700317382812,
       "estadoStock": "Comprar"
     },
     {
@@ -517,7 +517,7 @@
       "colorName": "Black",
       "colorHex": 4278190080,
       "precioKilo": 21,
-      "gramosDisponibles": 950.3699951171875,
+      "gramosDisponibles": 940.0899658203125,
       "estadoStock": "En Stock"
     },
     {
