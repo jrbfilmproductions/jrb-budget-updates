@@ -517,7 +517,7 @@
       "colorName": "Black",
       "colorHex": 4278190080,
       "precioKilo": 21,
-      "gramosDisponibles": 998.1099853515625,
+      "gramosDisponibles": 950.3699951171875,
       "estadoStock": "En Stock"
     },
     {
@@ -1017,7 +1017,7 @@
       "colorName": "White",
       "colorHex": 4294967295,
       "precioKilo": 25,
-      "gramosDisponibles": 948.77001953125,
+      "gramosDisponibles": 893.1600341796875,
       "estadoStock": "Comprar"
     },
     {
