@@ -327,7 +327,7 @@
       "colorName": "Red",
       "colorHex": 4294901760,
       "precioKilo": 21,
-      "gramosDisponibles": 955.52001953125,
+      "gramosDisponibles": 938.25,
       "estadoStock": "Comprar"
     },
     {
@@ -377,7 +377,7 @@
       "colorName": "Blue",
       "colorHex": 4278190335,
       "precioKilo": 21,
-      "gramosDisponibles": 865.4700317382812,
+      "gramosDisponibles": 807.25,
       "estadoStock": "Comprar"
     },
     {
@@ -517,7 +517,7 @@
       "colorName": "Black",
       "colorHex": 4278190080,
       "precioKilo": 21,
-      "gramosDisponibles": 940.0899658203125,
+      "gramosDisponibles": 933.0299682617188,
       "estadoStock": "En Stock"
     },
     {
@@ -1017,7 +1017,7 @@
       "colorName": "White",
       "colorHex": 4294967295,
       "precioKilo": 25,
-      "gramosDisponibles": 893.1600341796875,
+      "gramosDisponibles": 838.0800170898438,
       "estadoStock": "Comprar"
     },
     {
