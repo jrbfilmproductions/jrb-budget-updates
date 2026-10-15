@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
+  "versionCode": 11,
   "mensaje": "¡Nueva versión disponible, nueva mejoras y correciones",
-  "urlUpdate": "https://github.com/jrbfilmproductions/jrb-budget-updates/releases/download/10.0/app-debug.apk",
+  "urlUpdate": "https://github.com/jrbfilmproductions/jrb-budget-updates/releases/download/11.0/app-debug.apk",
   "obligatorio": true
 }
