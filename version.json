@@ -1,5 +1,5 @@
 {
-  "versionCode": 4,
+  "versionCode": 4.0,
   "mensaje": "¡Nueva versión disponible y correcion de AMS en presupuesto!",
   "urlUpdate": "https://github.com/jrbfilmproductions/jrb-budget-updates/releases/download/4.0/app-debug.apk",
   "obligatorio": true
