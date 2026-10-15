@@ -1,18 +1,6 @@
 {
   "clientes": [
     {
-      "id": "1792078549381",
-      "tipoCliente": "Particular",
-      "nombreOrganizacion": "",
-      "personaContacto": "",
-      "nombre": "paco",
-      "dni": "",
-      "direccion": "",
-      "telefono": "",
-      "correo": "",
-      "redesSociales": ""
-    },
-    {
       "id": "1792078549382",
       "tipoCliente": "Particular",
       "nombreOrganizacion": "",
