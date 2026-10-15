@@ -1,6 +1,6 @@
 {
   "versionCode": 4,
   "mensaje": "¡Nueva versión disponible con mejoras de inventario y correcion de AMS en presupuesto!",
-  "urlUpdate": "https://github.com/jrbfilmproductions/jrb-budget-updates/releases/download/3.0/app-debug.apk",
+  "urlUpdate": "https://github.com/jrbfilmproductions/jrb-budget-updates/releases/download/4.0/app-debug.apk",
   "obligatorio": true
 }
