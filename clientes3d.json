@@ -11,6 +11,18 @@
       "telefono": "",
       "correo": "",
       "redesSociales": ""
+    },
+    {
+      "id": "1792078549381",
+      "tipoCliente": "Particular",
+      "nombreOrganizacion": "",
+      "personaContacto": "",
+      "nombre": "pico",
+      "dni": "",
+      "direccion": "",
+      "telefono": "",
+      "correo": "",
+      "redesSociales": ""
     }
   ]
 }
