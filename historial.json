@@ -1,40 +1,40 @@
 {
   "historial": [
     {
-      "id": "JRB-2026-018",
-      "cliente": "prueba 009",
-      "fecha": "15\/10\/2026 05:17",
+      "id": "JRB-2026-027",
+      "cliente": "nueva prueba",
+      "fecha": "15\/10\/2026 04:18",
       "gramos": 150,
       "horas": 6,
-      "total": 3.42143177986145,
+      "total": 2.608544111251831,
       "regalo": false,
-      "beneficio": 0.9592800140380859,
-      "pdfUri": "content:\/\/media\/external\/downloads\/1000189496",
+      "beneficio": 0.36568379402160645,
+      "pdfUri": "",
       "estado": "Pendiente"
     },
     {
-      "id": "JRB-2026-017",
-      "cliente": "prueba 003",
-      "fecha": "15\/10\/2026 05:09",
+      "id": "JRB-2026-026",
+      "cliente": "prueba 002",
+      "fecha": "15\/10\/2026 01:30",
       "gramos": 150,
       "horas": 6,
-      "total": 3.42143177986145,
+      "total": 2.608544111251831,
       "regalo": false,
-      "beneficio": 0.9592800140380859,
-      "pdfUri": "content:\/\/media\/external\/downloads\/1000189489",
+      "beneficio": 0.36568379402160645,
+      "pdfUri": "content:\/\/media\/external\/downloads\/168",
       "estado": "Pendiente"
     },
     {
-      "id": "JRB-2026-016",
-      "cliente": "Nueva prueba 002",
-      "fecha": "15\/10\/2026 05:07",
+      "id": "JRB-2026-011",
+      "cliente": "prueba 001",
+      "fecha": "15\/10\/2026 02:27",
       "gramos": 150,
       "horas": 6,
       "total": 3.42143177986145,
       "regalo": false,
       "beneficio": 0.9592800140380859,
-      "pdfUri": "content:\/\/media\/external\/downloads\/1000189488",
-      "estado": "Aceptado"
+      "pdfUri": "content:\/\/media\/external\/downloads\/1000189480",
+      "estado": "Pendiente"
     },
     {
       "id": "JRB-2026-024",
@@ -106,6 +106,18 @@
       "regalo": false,
       "beneficio": 1.0074357986450195,
       "pdfUri": "content:\/\/media\/external\/downloads\/77",
+      "estado": "Aceptado"
+    },
+    {
+      "id": "JRB-2026-018",
+      "cliente": "Cliente Final",
+      "fecha": "07\/10\/2026 19:17",
+      "gramos": 150,
+      "horas": 6,
+      "total": 7.186376571655273,
+      "regalo": false,
+      "beneficio": 1.0074357986450195,
+      "pdfUri": "content:\/\/media\/external\/downloads\/75",
       "estado": "Aceptado"
     }
   ]
