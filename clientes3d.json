@@ -35,6 +35,18 @@
       "telefono": "",
       "correo": "",
       "redesSociales": ""
+    },
+    {
+      "id": "1792105555857",
+      "tipoCliente": "Particular",
+      "nombreOrganizacion": "",
+      "personaContacto": "",
+      "nombre": "paquito",
+      "dni": "",
+      "direccion": "",
+      "telefono": "",
+      "correo": "",
+      "redesSociales": ""
     }
   ]
 }
