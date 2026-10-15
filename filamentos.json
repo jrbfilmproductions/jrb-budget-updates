@@ -1,9 +1,8 @@
 {
   "filamentos": [
     {
-      "Nombre": "Blanco",
-      "marca": "sugraher",
       "id": "PLA-SUG-001",
+      "marca": "sugraher",
       "tipo": "PLA",
       "colorName": "Blanco",
       "colorHex": 4294967295,
@@ -12,9 +11,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Amarillo",
-      "marca": "sugraher",
       "id": "PLA-SUG-002",
+      "marca": "sugraher",
       "tipo": "PLA",
       "colorName": "Amarillo",
       "colorHex": 4294704956,
@@ -23,9 +21,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Amarillo brillante",
-      "marca": "sugraher",
       "id": "PLA-SUG-003",
+      "marca": "sugraher",
       "tipo": "PLA",
       "colorName": "Amarillo brillante",
       "colorHex": 4294634053,
@@ -34,9 +31,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Naranja",
-      "marca": "sugraher",
       "id": "PLA-SUG-004",
+      "marca": "sugraher",
       "tipo": "PLA",
       "colorName": "Naranja",
       "colorHex": 4294666026,
@@ -45,9 +41,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Rojo brillante",
-      "marca": "sugraher",
       "id": "PLA-SUG-005",
+      "marca": "sugraher",
       "tipo": "PLA",
       "colorName": "Rojo brillante",
       "colorHex": 4291499042,
@@ -56,9 +51,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Rojo oscuro",
-      "marca": "sugraher",
       "id": "PLA-SUG-006",
+      "marca": "sugraher",
       "tipo": "PLA",
       "colorName": "Rojo oscuro",
       "colorHex": 4289668132,
@@ -67,9 +61,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Verde manzana",
-      "marca": "sugraher",
       "id": "PLA-SUG-007",
+      "marca": "sugraher",
       "tipo": "PLA",
       "colorName": "Verde manzana",
       "colorHex": 4292077715,
@@ -78,9 +71,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Verde claro",
-      "marca": "sugraher",
       "id": "PLA-SUG-008",
+      "marca": "sugraher",
       "tipo": "PLA",
       "colorName": "Verde claro",
       "colorHex": 4286502488,
@@ -89,9 +81,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Verde",
-      "marca": "sugraher",
       "id": "PLA-SUG-009",
+      "marca": "sugraher",
       "tipo": "PLA",
       "colorName": "Verde",
       "colorHex": 4281848891,
@@ -100,9 +91,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Verde oliva",
-      "marca": "sugraher",
       "id": "PLA-SUG-010",
+      "marca": "sugraher",
       "tipo": "PLA",
       "colorName": "Verde oliva",
       "colorHex": 4287737167,
@@ -111,9 +101,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Verde oscuro",
-      "marca": "sugraher",
       "id": "PLA-SUG-011",
+      "marca": "sugraher",
       "tipo": "PLA",
       "colorName": "Verde oscuro",
       "colorHex": 4278403895,
@@ -122,9 +111,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Azul claro",
-      "marca": "sugraher",
       "id": "PLA-SUG-012",
+      "marca": "sugraher",
       "tipo": "PLA",
       "colorName": "Azul claro",
       "colorHex": 4284665067,
@@ -133,9 +121,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Cian",
-      "marca": "sugraher",
       "id": "PLA-SUG-013",
+      "marca": "sugraher",
       "tipo": "PLA",
       "colorName": "Cian",
       "colorHex": 4278224598,
@@ -144,9 +131,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Azul oscuro",
-      "marca": "sugraher",
       "id": "PLA-SUG-014",
+      "marca": "sugraher",
       "tipo": "PLA",
       "colorName": "Azul oscuro",
       "colorHex": 4281022593,
@@ -155,9 +141,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Morado oscuro",
-      "marca": "sugraher",
       "id": "PLA-SUG-015",
+      "marca": "sugraher",
       "tipo": "PLA",
       "colorName": "Morado oscuro",
       "colorHex": 4282132604,
@@ -166,9 +151,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Azul Klein",
-      "marca": "sugraher",
       "id": "PLA-SUG-016",
+      "marca": "sugraher",
       "tipo": "PLA",
       "colorName": "Azul Klein",
       "colorHex": 4284630439,
@@ -177,9 +161,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Morado",
-      "marca": "sugraher",
       "id": "PLA-SUG-017",
+      "marca": "sugraher",
       "tipo": "PLA",
       "colorName": "Morado",
       "colorHex": 4287790538,
@@ -188,9 +171,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Magenta",
-      "marca": "sugraher",
       "id": "PLA-SUG-018",
+      "marca": "sugraher",
       "tipo": "PLA",
       "colorName": "Magenta",
       "colorHex": 4293394571,
@@ -199,9 +181,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Rosa",
-      "marca": "sugraher",
       "id": "PLA-SUG-019",
+      "marca": "sugraher",
       "tipo": "PLA",
       "colorName": "Rosa",
       "colorHex": 4294945512,
@@ -210,9 +191,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Rojo ladrillo",
-      "marca": "sugraher",
       "id": "PLA-SUG-020",
+      "marca": "sugraher",
       "tipo": "PLA",
       "colorName": "Rojo ladrillo",
       "colorHex": 4293101442,
@@ -221,9 +201,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Lila",
-      "marca": "sugraher",
       "id": "PLA-SUG-021",
+      "marca": "sugraher",
       "tipo": "PLA",
       "colorName": "Lila",
       "colorHex": 4293180886,
@@ -232,9 +211,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Rosa pasta de judías",
-      "marca": "sugraher",
       "id": "PLA-SUG-022",
+      "marca": "sugraher",
       "tipo": "PLA",
       "colorName": "Rosa pasta de judías",
       "colorHex": 4293709509,
@@ -243,9 +221,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Avena",
-      "marca": "sugraher",
       "id": "PLA-SUG-023",
+      "marca": "sugraher",
       "tipo": "PLA",
       "colorName": "Avena",
       "colorHex": 4291937200,
@@ -254,9 +231,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Naranja crema",
-      "marca": "sugraher",
       "id": "PLA-SUG-024",
+      "marca": "sugraher",
       "tipo": "PLA",
       "colorName": "Naranja crema",
       "colorHex": 4294358937,
@@ -265,9 +241,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Color piel",
-      "marca": "sugraher",
       "id": "PLA-SUG-025",
+      "marca": "sugraher",
       "tipo": "PLA",
       "colorName": "Color piel",
       "colorHex": 4293767032,
@@ -276,9 +251,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Marrón café",
-      "marca": "sugraher",
       "id": "PLA-SUG-026",
+      "marca": "sugraher",
       "tipo": "PLA",
       "colorName": "Marrón café",
       "colorHex": 4283706138,
@@ -287,9 +261,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro castaño",
-      "marca": "sugraher",
       "id": "PLA-SUG-027",
+      "marca": "sugraher",
       "tipo": "PLA",
       "colorName": "Negro castaño",
       "colorHex": 4281671707,
@@ -298,9 +271,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Transparente",
-      "marca": "sugraher",
       "id": "PLA-SUG-028",
+      "marca": "sugraher",
       "tipo": "PLA",
       "colorName": "Transparente",
       "colorHex": 4293717991,
@@ -309,9 +281,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Gris claro",
-      "marca": "sugraher",
       "id": "PLA-SUG-029",
+      "marca": "sugraher",
       "tipo": "PLA",
       "colorName": "Gris claro",
       "colorHex": 4292203989,
@@ -320,9 +291,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Gris oscuro",
-      "marca": "sugraher",
       "id": "PLA-SUG-030",
+      "marca": "sugraher",
       "tipo": "PLA",
       "colorName": "Gris oscuro",
       "colorHex": 4283849825,
@@ -331,9 +301,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "sugraher",
       "id": "PLA-SUG-031",
+      "marca": "sugraher",
       "tipo": "PLA",
       "colorName": "Negro",
       "colorHex": 4278190080,
@@ -342,9 +311,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blanco",
-      "marca": "sugraher",
       "id": "PLA-SUG-MAT-001",
+      "marca": "sugraher",
       "tipo": "PLA Matte",
       "colorName": "Blanco",
       "colorHex": 4294967295,
@@ -353,9 +321,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Gris",
-      "marca": "sugraher",
       "id": "PLA-SUG-MAT-002",
+      "marca": "sugraher",
       "tipo": "PLA Matte",
       "colorName": "Gris",
       "colorHex": 4287864999,
@@ -364,9 +331,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "sugraher",
       "id": "PLA-SUG-MAT-003",
+      "marca": "sugraher",
       "tipo": "PLA Matte",
       "colorName": "Negro",
       "colorHex": 4280359454,
@@ -375,9 +341,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blanco",
-      "marca": "sugraher",
       "id": "PLA-SUG-SLK-001",
+      "marca": "sugraher",
       "tipo": "PLA Silk",
       "colorName": "Blanco",
       "colorHex": 4294375158,
@@ -386,9 +351,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Verde oscuro",
-      "marca": "sugraher",
       "id": "PLA-SUG-SLK-002",
+      "marca": "sugraher",
       "tipo": "PLA Silk",
       "colorName": "Verde oscuro",
       "colorHex": 4280649287,
@@ -397,9 +361,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Azul",
-      "marca": "sugraher",
       "id": "PLA-SUG-SLK-003",
+      "marca": "sugraher",
       "tipo": "PLA Silk",
       "colorName": "Azul",
       "colorHex": 4280965297,
@@ -408,9 +371,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Rosa",
-      "marca": "sugraher",
       "id": "PLA-SUG-SLK-004",
+      "marca": "sugraher",
       "tipo": "PLA Silk",
       "colorName": "Rosa",
       "colorHex": 4293961434,
@@ -419,9 +381,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Copper",
-      "marca": "sugraher",
       "id": "PLA-SUG-SLK-005",
+      "marca": "sugraher",
       "tipo": "PLA Silk",
       "colorName": "Copper",
       "colorHex": 4289479225,
@@ -430,9 +391,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Dorado",
-      "marca": "sugraher",
       "id": "PLA-SUG-SLK-006",
+      "marca": "sugraher",
       "tipo": "PLA Silk",
       "colorName": "Dorado",
       "colorHex": 4291727679,
@@ -441,9 +401,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Plateado",
-      "marca": "sugraher",
       "id": "PLA-SUG-SLK-007",
+      "marca": "sugraher",
       "tipo": "PLA Silk",
       "colorName": "Plateado",
       "colorHex": 4291086278,
@@ -452,9 +411,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "sugraher",
       "id": "PLA-SUG-SLK-008",
+      "marca": "sugraher",
       "tipo": "PLA Silk",
       "colorName": "Negro",
       "colorHex": 4278190080,
@@ -463,9 +421,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blanco",
-      "marca": "sugraher",
       "id": "PETG-SUG-001",
+      "marca": "sugraher",
       "tipo": "PETG",
       "colorName": "Blanco",
       "colorHex": 4294375158,
@@ -474,9 +431,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Naranja",
-      "marca": "sugraher",
       "id": "PETG-SUG-002",
+      "marca": "sugraher",
       "tipo": "PETG",
       "colorName": "Naranja",
       "colorHex": 4294666026,
@@ -485,9 +441,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Rojo brillante",
-      "marca": "sugraher",
       "id": "PETG-SUG-003",
+      "marca": "sugraher",
       "tipo": "PETG",
       "colorName": "Rojo brillante",
       "colorHex": 4291499042,
@@ -496,9 +451,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Verde claro",
-      "marca": "sugraher",
       "id": "PETG-SUG-004",
+      "marca": "sugraher",
       "tipo": "PETG",
       "colorName": "Verde claro",
       "colorHex": 4286502488,
@@ -507,9 +461,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Azul oscuro",
-      "marca": "sugraher",
       "id": "PETG-SUG-005",
+      "marca": "sugraher",
       "tipo": "PETG",
       "colorName": "Azul oscuro",
       "colorHex": 4279191990,
@@ -518,9 +471,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Transparente",
-      "marca": "sugraher",
       "id": "PETG-SUG-006",
+      "marca": "sugraher",
       "tipo": "PETG",
       "colorName": "Transparente",
       "colorHex": 4293717991,
@@ -529,9 +481,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Gris claro",
-      "marca": "sugraher",
       "id": "PETG-SUG-007",
+      "marca": "sugraher",
       "tipo": "PETG",
       "colorName": "Gris claro",
       "colorHex": 4292203989,
@@ -540,9 +491,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "sugraher",
       "id": "PETG-SUG-008",
+      "marca": "sugraher",
       "tipo": "PETG",
       "colorName": "Negro",
       "colorHex": 4278190080,
@@ -551,9 +501,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Naranja",
-      "marca": "creality",
       "id": "FIL-CRE-001",
+      "marca": "creality",
       "tipo": "Hyper PLA",
       "colorName": "Naranja",
       "colorHex": 4294666026,
@@ -562,9 +511,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Rojo",
-      "marca": "creality",
       "id": "FIL-CRE-002",
+      "marca": "creality",
       "tipo": "Hyper PLA",
       "colorName": "Rojo",
       "colorHex": 4292823877,
@@ -573,9 +521,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Azul",
-      "marca": "creality",
       "id": "FIL-CRE-003",
+      "marca": "creality",
       "tipo": "Hyper PLA",
       "colorName": "Azul",
       "colorHex": 4280965297,
@@ -584,9 +531,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Very Peri",
-      "marca": "creality",
       "id": "FIL-CRE-004",
+      "marca": "creality",
       "tipo": "Hyper PLA",
       "colorName": "Very Peri",
       "colorHex": 4282398388,
@@ -595,9 +541,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Morado",
-      "marca": "creality",
       "id": "FIL-CRE-005",
+      "marca": "creality",
       "tipo": "Hyper PLA",
       "colorName": "Morado",
       "colorHex": 4286578816,
@@ -606,9 +551,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Viva Magenta",
-      "marca": "creality",
       "id": "FIL-CRE-006",
+      "marca": "creality",
       "tipo": "Hyper PLA",
       "colorName": "Viva Magenta",
       "colorHex": 4294583900,
@@ -617,9 +561,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Peach Fuzz",
-      "marca": "creality",
       "id": "FIL-CRE-007",
+      "marca": "creality",
       "tipo": "Hyper PLA",
       "colorName": "Peach Fuzz",
       "colorHex": 4294949534,
@@ -628,9 +571,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Marrón",
-      "marca": "creality",
       "id": "FIL-CRE-008",
+      "marca": "creality",
       "tipo": "Hyper PLA",
       "colorName": "Marrón",
       "colorHex": 4288045901,
@@ -639,9 +581,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Dorado",
-      "marca": "creality",
       "id": "FIL-CRE-009",
+      "marca": "creality",
       "tipo": "Hyper PLA",
       "colorName": "Dorado",
       "colorHex": 4291932519,
@@ -650,9 +591,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blanco",
-      "marca": "smart materials",
       "id": "PLA-SMT-REC-001",
+      "marca": "smart materials",
       "tipo": "PLA Recycled",
       "colorName": "Blanco",
       "colorHex": 4294967295,
@@ -661,9 +601,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blanco frío",
-      "marca": "smart materials",
       "id": "PLA-SMT-REC-002",
+      "marca": "smart materials",
       "tipo": "PLA Recycled",
       "colorName": "Blanco frío",
       "colorHex": 4292862690,
@@ -672,9 +611,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Amarillo",
-      "marca": "smart materials",
       "id": "PLA-SMT-REC-003",
+      "marca": "smart materials",
       "tipo": "PLA Recycled",
       "colorName": "Amarillo",
       "colorHex": 4294633277,
@@ -683,9 +621,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Traffic",
-      "marca": "smart materials",
       "id": "PLA-SMT-REC-004",
+      "marca": "smart materials",
       "tipo": "PLA Recycled",
       "colorName": "Traffic",
       "colorHex": 4293768498,
@@ -694,9 +631,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Naranja",
-      "marca": "smart materials",
       "id": "PLA-SMT-REC-005",
+      "marca": "smart materials",
       "tipo": "PLA Recycled",
       "colorName": "Naranja",
       "colorHex": 4294666026,
@@ -705,9 +641,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Rojo",
-      "marca": "smart materials",
       "id": "PLA-SMT-REC-006",
+      "marca": "smart materials",
       "tipo": "PLA Recycled",
       "colorName": "Rojo",
       "colorHex": 4292823877,
@@ -716,9 +651,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Grenade",
-      "marca": "smart materials",
       "id": "PLA-SMT-REC-007",
+      "marca": "smart materials",
       "tipo": "PLA Recycled",
       "colorName": "Grenade",
       "colorHex": 4286518555,
@@ -727,9 +661,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Verde",
-      "marca": "smart materials",
       "id": "PLA-SMT-REC-008",
+      "marca": "smart materials",
       "tipo": "PLA Recycled",
       "colorName": "Verde",
       "colorHex": 4281848891,
@@ -738,9 +671,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "May",
-      "marca": "smart materials",
       "id": "PLA-SMT-REC-009",
+      "marca": "smart materials",
       "tipo": "PLA Recycled",
       "colorName": "May",
       "colorHex": 4283009332,
@@ -749,9 +681,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Green Army",
-      "marca": "smart materials",
       "id": "PLA-SMT-REC-010",
+      "marca": "smart materials",
       "tipo": "PLA Recycled",
       "colorName": "Green Army",
       "colorHex": 4283531370,
@@ -760,9 +691,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Verde oscuro",
-      "marca": "smart materials",
       "id": "PLA-SMT-REC-011",
+      "marca": "smart materials",
       "tipo": "PLA Recycled",
       "colorName": "Verde oscuro",
       "colorHex": 4278403895,
@@ -771,9 +701,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Verde claro",
-      "marca": "smart materials",
       "id": "PLA-SMT-REC-012",
+      "marca": "smart materials",
       "tipo": "PLA Recycled",
       "colorName": "Verde claro",
       "colorHex": 4278308272,
@@ -782,9 +711,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Azul claro",
-      "marca": "smart materials",
       "id": "PLA-SMT-REC-013",
+      "marca": "smart materials",
       "tipo": "PLA Recycled",
       "colorName": "Azul claro",
       "colorHex": 4284665067,
@@ -793,9 +721,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Azul",
-      "marca": "smart materials",
       "id": "PLA-SMT-REC-014",
+      "marca": "smart materials",
       "tipo": "PLA Recycled",
       "colorName": "Azul",
       "colorHex": 4278228735,
@@ -804,9 +731,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Signal Blue",
-      "marca": "smart materials",
       "id": "PLA-SMT-REC-015",
+      "marca": "smart materials",
       "tipo": "PLA Recycled",
       "colorName": "Signal Blue",
       "colorHex": 4278481304,
@@ -815,9 +741,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Azul oscuro",
-      "marca": "smart materials",
       "id": "PLA-SMT-REC-016",
+      "marca": "smart materials",
       "tipo": "PLA Recycled",
       "colorName": "Azul oscuro",
       "colorHex": 4281022593,
@@ -826,9 +751,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Violeta",
-      "marca": "smart materials",
       "id": "PLA-SMT-REC-017",
+      "marca": "smart materials",
       "tipo": "PLA Recycled",
       "colorName": "Violeta",
       "colorHex": 4286537399,
@@ -837,9 +761,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Lilac",
-      "marca": "smart materials",
       "id": "PLA-SMT-REC-018",
+      "marca": "smart materials",
       "tipo": "PLA Recycled",
       "colorName": "Lilac",
       "colorHex": 4290484175,
@@ -848,9 +771,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Morado",
-      "marca": "smart materials",
       "id": "PLA-SMT-REC-019",
+      "marca": "smart materials",
       "tipo": "PLA Recycled",
       "colorName": "Morado",
       "colorHex": 4286578816,
@@ -859,9 +781,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Rosa",
-      "marca": "smart materials",
       "id": "PLA-SMT-REC-020",
+      "marca": "smart materials",
       "tipo": "PLA Recycled",
       "colorName": "Rosa",
       "colorHex": 4294664906,
@@ -870,9 +791,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Coral",
-      "marca": "smart materials",
       "id": "PLA-SMT-REC-021",
+      "marca": "smart materials",
       "tipo": "PLA Recycled",
       "colorName": "Coral",
       "colorHex": 4294538102,
@@ -881,9 +801,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Marrón",
-      "marca": "smart materials",
       "id": "PLA-SMT-REC-022",
+      "marca": "smart materials",
       "tipo": "PLA Recycled",
       "colorName": "Marrón",
       "colorHex": 4288045901,
@@ -892,9 +811,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Dorado",
-      "marca": "smart materials",
       "id": "PLA-SMT-REC-023",
+      "marca": "smart materials",
       "tipo": "PLA Recycled",
       "colorName": "Dorado",
       "colorHex": 4291932519,
@@ -903,9 +821,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Light Gray",
-      "marca": "smart materials",
       "id": "PLA-SMT-REC-024",
+      "marca": "smart materials",
       "tipo": "PLA Recycled",
       "colorName": "Light Gray",
       "colorHex": 4291612370,
@@ -914,9 +831,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Plateado",
-      "marca": "smart materials",
       "id": "PLA-SMT-REC-025",
+      "marca": "smart materials",
       "tipo": "PLA Recycled",
       "colorName": "Plateado",
       "colorHex": 4291086278,
@@ -925,9 +841,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Gris oscuro",
-      "marca": "smart materials",
       "id": "PLA-SMT-REC-026",
+      "marca": "smart materials",
       "tipo": "PLA Recycled",
       "colorName": "Gris oscuro",
       "colorHex": 4283849825,
@@ -936,9 +851,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "smart materials",
       "id": "PLA-SMT-REC-027",
+      "marca": "smart materials",
       "tipo": "PLA Recycled",
       "colorName": "Negro",
       "colorHex": 4278190080,
@@ -947,9 +861,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Naranja señal",
-      "marca": "smart materials",
       "id": "FIL-SMT-001",
+      "marca": "smart materials",
       "tipo": "R-PETG",
       "colorName": "Naranja señal",
       "colorHex": 4292174623,
@@ -958,9 +871,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Rojo carmín",
-      "marca": "smart materials",
       "id": "FIL-SMT-002",
+      "marca": "smart materials",
       "tipo": "R-PETG",
       "colorName": "Rojo carmín",
       "colorHex": 4288821043,
@@ -969,9 +881,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Pistacho",
-      "marca": "smart materials",
       "id": "FIL-SMT-003",
+      "marca": "smart materials",
       "tipo": "R-PETG",
       "colorName": "Pistacho",
       "colorHex": 4289639737,
@@ -980,9 +891,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Pure Green",
-      "marca": "smart materials",
       "id": "FIL-SMT-004",
+      "marca": "smart materials",
       "tipo": "R-PETG",
       "colorName": "Pure Green",
       "colorHex": 4282687304,
@@ -991,9 +901,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Capri Blue",
-      "marca": "smart materials",
       "id": "FIL-SMT-005",
+      "marca": "smart materials",
       "tipo": "R-PETG",
       "colorName": "Capri Blue",
       "colorHex": 4278220753,
@@ -1002,9 +911,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Violeta",
-      "marca": "smart materials",
       "id": "FIL-SMT-006",
+      "marca": "smart materials",
       "tipo": "R-PETG",
       "colorName": "Violeta",
       "colorHex": 4286537399,
@@ -1013,9 +921,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Slate Grey",
-      "marca": "smart materials",
       "id": "FIL-SMT-007",
+      "marca": "smart materials",
       "tipo": "R-PETG",
       "colorName": "Slate Grey",
       "colorHex": 4283455331,
@@ -1024,9 +931,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "smart materials",
       "id": "FIL-SMT-008",
+      "marca": "smart materials",
       "tipo": "R-PETG",
       "colorName": "Negro",
       "colorHex": 4278190080,
@@ -1035,9 +941,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Verde luminiscente",
-      "marca": "smart materials",
       "id": "PLA-SMT-GLO-001",
+      "marca": "smart materials",
       "tipo": "PLA Glow",
       "colorName": "Verde luminiscente",
       "colorHex": 4283105142,
@@ -1046,9 +951,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Azul luminiscente",
-      "marca": "smart materials",
       "id": "PLA-SMT-GLO-002",
+      "marca": "smart materials",
       "tipo": "PLA Glow",
       "colorName": "Azul luminiscente",
       "colorHex": 4280588795,
@@ -1057,9 +961,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Piel clara",
-      "marca": "smart materials",
       "id": "PLA-SMT-001",
+      "marca": "smart materials",
       "tipo": "PLA Skin",
       "colorName": "Piel clara",
       "colorHex": 4293514687,
@@ -1068,9 +971,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Piel media",
-      "marca": "smart materials",
       "id": "PLA-SMT-002",
+      "marca": "smart materials",
       "tipo": "PLA Skin",
       "colorName": "Piel media",
       "colorHex": 4293904566,
@@ -1079,9 +981,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Piel bronceada",
-      "marca": "smart materials",
       "id": "PLA-SMT-003",
+      "marca": "smart materials",
       "tipo": "PLA Skin",
       "colorName": "Piel bronceada",
       "colorHex": 4288573516,
@@ -1090,9 +991,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blanco jade",
-      "marca": "bambu lab",
       "id": "PLA-BAM-001",
+      "marca": "bambu lab",
       "tipo": "PLA Basic",
       "colorName": "Blanco jade",
       "colorHex": 4294967295,
@@ -1101,9 +1001,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Amarillo",
-      "marca": "bambu lab",
       "id": "PLA-BAM-002",
+      "marca": "bambu lab",
       "tipo": "PLA Basic",
       "colorName": "Amarillo",
       "colorHex": 4294704956,
@@ -1112,9 +1011,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Amarillo girasol",
-      "marca": "bambu lab",
       "id": "PLA-BAM-003",
+      "marca": "bambu lab",
       "tipo": "PLA Basic",
       "colorName": "Amarillo girasol",
       "colorHex": 4294886912,
@@ -1123,9 +1021,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Pumpkin Orange",
-      "marca": "bambu lab",
       "id": "PLA-BAM-004",
+      "marca": "bambu lab",
       "tipo": "PLA Basic",
       "colorName": "Pumpkin Orange",
       "colorHex": 4294938646,
@@ -1134,9 +1031,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Naranja",
-      "marca": "bambu lab",
       "id": "PLA-BAM-005",
+      "marca": "bambu lab",
       "tipo": "PLA Basic",
       "colorName": "Naranja",
       "colorHex": 4294666026,
@@ -1145,9 +1041,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Rojo",
-      "marca": "bambu lab",
       "id": "PLA-BAM-006",
+      "marca": "bambu lab",
       "tipo": "PLA Basic",
       "colorName": "Rojo",
       "colorHex": 4292823877,
@@ -1156,9 +1051,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Bambu Green",
-      "marca": "bambu lab",
       "id": "PLA-BAM-007",
+      "marca": "bambu lab",
       "tipo": "PLA Basic",
       "colorName": "Bambu Green",
       "colorHex": 4278234690,
@@ -1167,9 +1061,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Mistletoe Green",
-      "marca": "bambu lab",
       "id": "PLA-BAM-008",
+      "marca": "bambu lab",
       "tipo": "PLA Basic",
       "colorName": "Mistletoe Green",
       "colorHex": 4280775766,
@@ -1178,9 +1071,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Turquoise",
-      "marca": "bambu lab",
       "id": "PLA-BAM-009",
+      "marca": "bambu lab",
       "tipo": "PLA Basic",
       "colorName": "Turquoise",
       "colorHex": 4282441936,
@@ -1189,9 +1081,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Cian",
-      "marca": "bambu lab",
       "id": "PLA-BAM-010",
+      "marca": "bambu lab",
       "tipo": "PLA Basic",
       "colorName": "Cian",
       "colorHex": 4278224598,
@@ -1200,9 +1091,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Azul",
-      "marca": "bambu lab",
       "id": "PLA-BAM-011",
+      "marca": "bambu lab",
       "tipo": "PLA Basic",
       "colorName": "Azul",
       "colorHex": 4280965297,
@@ -1211,9 +1101,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Indigo Purple",
-      "marca": "bambu lab",
       "id": "PLA-BAM-012",
+      "marca": "bambu lab",
       "tipo": "PLA Basic",
       "colorName": "Indigo Purple",
       "colorHex": 4282919518,
@@ -1222,9 +1111,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Morado",
-      "marca": "bambu lab",
       "id": "PLA-BAM-013",
+      "marca": "bambu lab",
       "tipo": "PLA Basic",
       "colorName": "Morado",
       "colorHex": 4287790538,
@@ -1233,9 +1121,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Magenta",
-      "marca": "bambu lab",
       "id": "PLA-BAM-014",
+      "marca": "bambu lab",
       "tipo": "PLA Basic",
       "colorName": "Magenta",
       "colorHex": 4293394571,
@@ -1244,9 +1131,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Rosa",
-      "marca": "bambu lab",
       "id": "PLA-BAM-015",
+      "marca": "bambu lab",
       "tipo": "PLA Basic",
       "colorName": "Rosa",
       "colorHex": 4294342791,
@@ -1255,9 +1141,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Beige",
-      "marca": "bambu lab",
       "id": "PLA-BAM-016",
+      "marca": "bambu lab",
       "tipo": "PLA Basic",
       "colorName": "Beige",
       "colorHex": 4294174167,
@@ -1266,9 +1151,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Bronze",
-      "marca": "bambu lab",
       "id": "PLA-BAM-017",
+      "marca": "bambu lab",
       "tipo": "PLA Basic",
       "colorName": "Bronze",
       "colorHex": 4290553747,
@@ -1277,9 +1161,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Marrón",
-      "marca": "bambu lab",
       "id": "PLA-BAM-018",
+      "marca": "bambu lab",
       "tipo": "PLA Basic",
       "colorName": "Marrón",
       "colorHex": 4288632380,
@@ -1288,9 +1171,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Cocoa Brown",
-      "marca": "bambu lab",
       "id": "PLA-BAM-019",
+      "marca": "bambu lab",
       "tipo": "PLA Basic",
       "colorName": "Cocoa Brown",
       "colorHex": 4285485108,
@@ -1299,9 +1181,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Dorado",
-      "marca": "bambu lab",
       "id": "PLA-BAM-020",
+      "marca": "bambu lab",
       "tipo": "PLA Basic",
       "colorName": "Dorado",
       "colorHex": 4291727679,
@@ -1310,9 +1191,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Gray",
-      "marca": "bambu lab",
       "id": "PLA-BAM-021",
+      "marca": "bambu lab",
       "tipo": "PLA Basic",
       "colorName": "Gray",
       "colorHex": 4292072403,
@@ -1321,9 +1201,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Plateado",
-      "marca": "bambu lab",
       "id": "PLA-BAM-022",
+      "marca": "bambu lab",
       "tipo": "PLA Basic",
       "colorName": "Plateado",
       "colorHex": 4291086278,
@@ -1332,9 +1211,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blue Gray",
-      "marca": "bambu lab",
       "id": "PLA-BAM-023",
+      "marca": "bambu lab",
       "tipo": "PLA Basic",
       "colorName": "Blue Gray",
       "colorHex": 4285691263,
@@ -1343,9 +1221,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Gris oscuro",
-      "marca": "bambu lab",
       "id": "PLA-BAM-024",
+      "marca": "bambu lab",
       "tipo": "PLA Basic",
       "colorName": "Gris oscuro",
       "colorHex": 4283849825,
@@ -1354,9 +1231,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "bambu lab",
       "id": "PLA-BAM-025",
+      "marca": "bambu lab",
       "tipo": "PLA Basic",
       "colorName": "Negro",
       "colorHex": 4280359454,
@@ -1365,9 +1241,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blanco marfil",
-      "marca": "bambu lab",
       "id": "PLA-BAM-MAT-001",
+      "marca": "bambu lab",
       "tipo": "PLA Matte",
       "colorName": "Blanco marfil",
       "colorHex": 4294506482,
@@ -1376,9 +1251,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Amarillo limón",
-      "marca": "bambu lab",
       "id": "PLA-BAM-MAT-002",
+      "marca": "bambu lab",
       "tipo": "PLA Matte",
       "colorName": "Amarillo limón",
       "colorHex": 4294431833,
@@ -1387,9 +1261,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Naranja mandarina",
-      "marca": "bambu lab",
       "id": "PLA-BAM-MAT-003",
+      "marca": "bambu lab",
       "tipo": "PLA Matte",
       "colorName": "Naranja mandarina",
       "colorHex": 4294350697,
@@ -1398,9 +1271,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Scarlet Red",
-      "marca": "bambu lab",
       "id": "PLA-BAM-MAT-004",
+      "marca": "bambu lab",
       "tipo": "PLA Matte",
       "colorName": "Scarlet Red",
       "colorHex": 4292493382,
@@ -1409,9 +1281,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Rojo oscuro",
-      "marca": "bambu lab",
       "id": "PLA-BAM-MAT-005",
+      "marca": "bambu lab",
       "tipo": "PLA Matte",
       "colorName": "Rojo oscuro",
       "colorHex": 4289668132,
@@ -1420,9 +1291,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Verde manzana",
-      "marca": "bambu lab",
       "id": "PLA-BAM-MAT-006",
+      "marca": "bambu lab",
       "tipo": "PLA Matte",
       "colorName": "Verde manzana",
       "colorHex": 4292077715,
@@ -1431,9 +1301,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Grass Green",
-      "marca": "bambu lab",
       "id": "PLA-BAM-MAT-007",
+      "marca": "bambu lab",
       "tipo": "PLA Matte",
       "colorName": "Grass Green",
       "colorHex": 4285052803,
@@ -1442,9 +1311,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Verde oscuro",
-      "marca": "bambu lab",
       "id": "PLA-BAM-MAT-008",
+      "marca": "bambu lab",
       "tipo": "PLA Matte",
       "colorName": "Verde oscuro",
       "colorHex": 4278403895,
@@ -1453,9 +1321,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Ice Blue",
-      "marca": "bambu lab",
       "id": "PLA-BAM-MAT-009",
+      "marca": "bambu lab",
       "tipo": "PLA Matte",
       "colorName": "Ice Blue",
       "colorHex": 4288603636,
@@ -1464,9 +1331,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Marine Blue",
-      "marca": "bambu lab",
       "id": "PLA-BAM-MAT-010",
+      "marca": "bambu lab",
       "tipo": "PLA Matte",
       "colorName": "Marine Blue",
       "colorHex": 4281229977,
@@ -1475,9 +1341,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Plum",
-      "marca": "bambu lab",
       "id": "PLA-BAM-MAT-011",
+      "marca": "bambu lab",
       "tipo": "PLA Matte",
       "colorName": "Plum",
       "colorHex": 4287758417,
@@ -1486,9 +1351,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Sakura Pink",
-      "marca": "bambu lab",
       "id": "PLA-BAM-MAT-012",
+      "marca": "bambu lab",
       "tipo": "PLA Matte",
       "colorName": "Sakura Pink",
       "colorHex": 4294948805,
@@ -1497,9 +1361,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Desert Tan",
-      "marca": "bambu lab",
       "id": "PLA-BAM-MAT-013",
+      "marca": "bambu lab",
       "tipo": "PLA Matte",
       "colorName": "Desert Tan",
       "colorHex": 4294367915,
@@ -1508,9 +1371,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Bone White",
-      "marca": "bambu lab",
       "id": "PLA-BAM-MAT-014",
+      "marca": "bambu lab",
       "tipo": "PLA Matte",
       "colorName": "Bone White",
       "colorHex": 4291544761,
@@ -1519,9 +1381,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Latte Brown",
-      "marca": "bambu lab",
       "id": "PLA-BAM-MAT-015",
+      "marca": "bambu lab",
       "tipo": "PLA Matte",
       "colorName": "Latte Brown",
       "colorHex": 4291340437,
@@ -1530,9 +1391,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Caramel",
-      "marca": "bambu lab",
       "id": "PLA-BAM-MAT-016",
+      "marca": "bambu lab",
       "tipo": "PLA Matte",
       "colorName": "Caramel",
       "colorHex": 4289824874,
@@ -1541,9 +1401,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Dark Brown",
-      "marca": "bambu lab",
       "id": "PLA-BAM-MAT-017",
+      "marca": "bambu lab",
       "tipo": "PLA Matte",
       "colorName": "Dark Brown",
       "colorHex": 4284826401,
@@ -1552,9 +1411,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Ash Gray",
-      "marca": "bambu lab",
       "id": "PLA-BAM-MAT-018",
+      "marca": "bambu lab",
       "tipo": "PLA Matte",
       "colorName": "Ash Gray",
       "colorHex": 4288322204,
@@ -1563,9 +1421,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Charcoal",
-      "marca": "bambu lab",
       "id": "PLA-BAM-MAT-019",
+      "marca": "bambu lab",
       "tipo": "PLA Matte",
       "colorName": "Charcoal",
       "colorHex": 4278190080,
@@ -1574,9 +1431,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Verde óxido metalizado",
-      "marca": "bambu lab",
       "id": "PLA-BAM-026",
+      "marca": "bambu lab",
       "tipo": "PLA Metal",
       "colorName": "Verde óxido metalizado",
       "colorHex": 4280777834,
@@ -1585,9 +1441,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Azul cobalto metalizado",
-      "marca": "bambu lab",
       "id": "PLA-BAM-027",
+      "marca": "bambu lab",
       "tipo": "PLA Metal",
       "colorName": "Azul cobalto metalizado",
       "colorHex": 4284379785,
@@ -1596,9 +1451,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Marrón cobre metalizado",
-      "marca": "bambu lab",
       "id": "PLA-BAM-028",
+      "marca": "bambu lab",
       "tipo": "PLA Metal",
       "colorName": "Marrón cobre metalizado",
       "colorHex": 4285750356,
@@ -1607,9 +1461,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Iridium Gold Metalic",
-      "marca": "bambu lab",
       "id": "PLA-BAM-029",
+      "marca": "bambu lab",
       "tipo": "PLA Metal",
       "colorName": "Iridium Gold Metalic",
       "colorHex": 4288649870,
@@ -1618,9 +1471,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Iron Gray Metalic",
-      "marca": "bambu lab",
       "id": "PLA-BAM-030",
+      "marca": "bambu lab",
       "tipo": "PLA Metal",
       "colorName": "Iron Gray Metalic",
       "colorHex": 4286346352,
@@ -1629,9 +1481,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Madera rosa",
-      "marca": "bambu lab",
       "id": "PLA-BAM-WOD-001",
+      "marca": "bambu lab",
       "tipo": "PLA Wood",
       "colorName": "Madera rosa",
       "colorHex": 4290211449,
@@ -1640,9 +1491,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Marrón arcilla",
-      "marca": "bambu lab",
       "id": "PLA-BAM-WOD-002",
+      "marca": "bambu lab",
       "tipo": "PLA Wood",
       "colorName": "Marrón arcilla",
       "colorHex": 4291717427,
@@ -1651,9 +1501,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Abedul clásico",
-      "marca": "bambu lab",
       "id": "PLA-BAM-WOD-003",
+      "marca": "bambu lab",
       "tipo": "PLA Wood",
       "colorName": "Abedul clásico",
       "colorHex": 4287317267,
@@ -1662,9 +1511,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Black Walnut",
-      "marca": "bambu lab",
       "id": "PLA-BAM-WOD-004",
+      "marca": "bambu lab",
       "tipo": "PLA Wood",
       "colorName": "Black Walnut",
       "colorHex": 4280359454,
@@ -1673,9 +1521,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Mármol blanco",
-      "marca": "bambu lab",
       "id": "PLA-BAM-MRB-001",
+      "marca": "bambu lab",
       "tipo": "PLA Marble",
       "colorName": "Mármol blanco",
       "colorHex": 4291019969,
@@ -1684,9 +1531,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blanco",
-      "marca": "creality",
       "id": "PETG-CRE-001",
+      "marca": "creality",
       "tipo": "PETG",
       "colorName": "Blanco",
       "colorHex": 4294375158,
@@ -1695,9 +1541,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Gris",
-      "marca": "creality",
       "id": "PETG-CRE-002",
+      "marca": "creality",
       "tipo": "PETG",
       "colorName": "Gris",
       "colorHex": 4288387995,
@@ -1706,9 +1551,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "creality",
       "id": "PETG-CRE-003",
+      "marca": "creality",
       "tipo": "PETG",
       "colorName": "Negro",
       "colorHex": 4280359454,
@@ -1717,9 +1561,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Vainilla",
-      "marca": "smart materials",
       "id": "PLA-SMT-004",
+      "marca": "smart materials",
       "tipo": "PLA Pastel",
       "colorName": "Vainilla",
       "colorHex": 4294174123,
@@ -1728,9 +1571,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Menta",
-      "marca": "smart materials",
       "id": "PLA-SMT-005",
+      "marca": "smart materials",
       "tipo": "PLA Pastel",
       "colorName": "Menta",
       "colorHex": 4293001184,
@@ -1739,9 +1581,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Aqua",
-      "marca": "smart materials",
       "id": "PLA-SMT-006",
+      "marca": "smart materials",
       "tipo": "PLA Pastel",
       "colorName": "Aqua",
       "colorHex": 4292799479,
@@ -1750,9 +1591,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Lavender",
-      "marca": "smart materials",
       "id": "PLA-SMT-007",
+      "marca": "smart materials",
       "tipo": "PLA Pastel",
       "colorName": "Lavender",
       "colorHex": 4293250533,
@@ -1761,9 +1601,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Quartz",
-      "marca": "smart materials",
       "id": "PLA-SMT-008",
+      "marca": "smart materials",
       "tipo": "PLA Pastel",
       "colorName": "Quartz",
       "colorHex": 4294952403,
@@ -1772,9 +1611,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Perla",
-      "marca": "smart materials",
       "id": "PLA-SMT-009",
+      "marca": "smart materials",
       "tipo": "PLA Iris",
       "colorName": "Perla",
       "colorHex": 4293583048,
@@ -1783,9 +1621,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Granate",
-      "marca": "smart materials",
       "id": "PLA-SMT-010",
+      "marca": "smart materials",
       "tipo": "PLA Iris",
       "colorName": "Granate",
       "colorHex": 4286578688,
@@ -1794,9 +1631,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Alejandrita",
-      "marca": "smart materials",
       "id": "PLA-SMT-011",
+      "marca": "smart materials",
       "tipo": "PLA Iris",
       "colorName": "Alejandrita",
       "colorHex": 4284058740,
@@ -1805,9 +1641,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Topaz",
-      "marca": "smart materials",
       "id": "PLA-SMT-012",
+      "marca": "smart materials",
       "tipo": "PLA Iris",
       "colorName": "Topaz",
       "colorHex": 4281161516,
@@ -1816,9 +1651,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Tanzanite",
-      "marca": "smart materials",
       "id": "PLA-SMT-013",
+      "marca": "smart materials",
       "tipo": "PLA Iris",
       "colorName": "Tanzanite",
       "colorHex": 4281161338,
@@ -1827,9 +1661,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Oro amarillo",
-      "marca": "smart materials",
       "id": "PLA-SMT-SLK-001",
+      "marca": "smart materials",
       "tipo": "PLA Silk",
       "colorName": "Oro amarillo",
       "colorHex": 4294956800,
@@ -1838,9 +1671,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Rojo",
-      "marca": "smart materials",
       "id": "PLA-SMT-SLK-002",
+      "marca": "smart materials",
       "tipo": "PLA Silk",
       "colorName": "Rojo",
       "colorHex": 4292823877,
@@ -1849,9 +1681,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Azul",
-      "marca": "smart materials",
       "id": "PLA-SMT-SLK-003",
+      "marca": "smart materials",
       "tipo": "PLA Silk",
       "colorName": "Azul",
       "colorHex": 4278228735,
@@ -1860,9 +1691,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Copper",
-      "marca": "smart materials",
       "id": "PLA-SMT-SLK-004",
+      "marca": "smart materials",
       "tipo": "PLA Silk",
       "colorName": "Copper",
       "colorHex": 4289479225,
@@ -1871,9 +1701,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Rojo",
-      "marca": "smart materials",
       "id": "PLA-SMT-014",
+      "marca": "smart materials",
       "tipo": "PLA Glitter",
       "colorName": "Rojo",
       "colorHex": 4292161586,
@@ -1882,9 +1711,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Verde",
-      "marca": "smart materials",
       "id": "PLA-SMT-015",
+      "marca": "smart materials",
       "tipo": "PLA Glitter",
       "colorName": "Verde",
       "colorHex": 4283934265,
@@ -1893,9 +1721,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Azul",
-      "marca": "smart materials",
       "id": "PLA-SMT-016",
+      "marca": "smart materials",
       "tipo": "PLA Glitter",
       "colorName": "Azul",
       "colorHex": 4280965297,
@@ -1904,9 +1731,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Morado",
-      "marca": "smart materials",
       "id": "PLA-SMT-017",
+      "marca": "smart materials",
       "tipo": "PLA Glitter",
       "colorName": "Morado",
       "colorHex": 4287790538,
@@ -1915,9 +1741,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Plata",
-      "marca": "smart materials",
       "id": "PLA-SMT-018",
+      "marca": "smart materials",
       "tipo": "PLA Glitter",
       "colorName": "Plata",
       "colorHex": 4286744975,
@@ -1926,9 +1751,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "smart materials",
       "id": "PLA-SMT-019",
+      "marca": "smart materials",
       "tipo": "PLA Glitter",
       "colorName": "Negro",
       "colorHex": 4280359454,
@@ -1937,9 +1761,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blanco",
-      "marca": "bambu lab",
       "id": "FIL-BAM-SLK-001",
+      "marca": "bambu lab",
       "tipo": "Silk+",
       "colorName": "Blanco",
       "colorHex": 4294375158,
@@ -1948,9 +1771,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Rojo caramelo",
-      "marca": "bambu lab",
       "id": "FIL-BAM-SLK-002",
+      "marca": "bambu lab",
       "tipo": "Silk+",
       "colorName": "Rojo caramelo",
       "colorHex": 4291831591,
@@ -1959,9 +1781,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Menta",
-      "marca": "bambu lab",
       "id": "FIL-BAM-SLK-003",
+      "marca": "bambu lab",
       "tipo": "Silk+",
       "colorName": "Menta",
       "colorHex": 4293001184,
@@ -1970,9 +1791,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Candy Green",
-      "marca": "bambu lab",
       "id": "FIL-BAM-SLK-004",
+      "marca": "bambu lab",
       "tipo": "Silk+",
       "colorName": "Candy Green",
       "colorHex": 4279863331,
@@ -1981,9 +1801,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Baby Blue",
-      "marca": "bambu lab",
       "id": "FIL-BAM-SLK-005",
+      "marca": "bambu lab",
       "tipo": "Silk+",
       "colorName": "Baby Blue",
       "colorHex": 4289251054,
@@ -1992,9 +1811,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Azul",
-      "marca": "bambu lab",
       "id": "FIL-BAM-SLK-006",
+      "marca": "bambu lab",
       "tipo": "Silk+",
       "colorName": "Azul",
       "colorHex": 4278228735,
@@ -2003,9 +1821,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Morado",
-      "marca": "bambu lab",
       "id": "FIL-BAM-SLK-007",
+      "marca": "bambu lab",
       "tipo": "Silk+",
       "colorName": "Morado",
       "colorHex": 4286578816,
@@ -2014,9 +1831,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Rose Gold",
-      "marca": "bambu lab",
       "id": "FIL-BAM-SLK-008",
+      "marca": "bambu lab",
       "tipo": "Silk+",
       "colorName": "Rose Gold",
       "colorHex": 4290211449,
@@ -2025,9 +1841,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Dorado",
-      "marca": "bambu lab",
       "id": "FIL-BAM-SLK-009",
+      "marca": "bambu lab",
       "tipo": "Silk+",
       "colorName": "Dorado",
       "colorHex": 4291727679,
@@ -2036,9 +1851,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Plateado",
-      "marca": "bambu lab",
       "id": "FIL-BAM-SLK-010",
+      "marca": "bambu lab",
       "tipo": "Silk+",
       "colorName": "Plateado",
       "colorHex": 4291086278,
@@ -2047,9 +1861,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Titan Gray",
-      "marca": "bambu lab",
       "id": "FIL-BAM-SLK-011",
+      "marca": "bambu lab",
       "tipo": "Silk+",
       "colorName": "Titan Gray",
       "colorHex": 4284441447,
@@ -2058,9 +1871,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Pure White",
-      "marca": "bambu lab",
       "id": "PLA-BAM-031",
+      "marca": "bambu lab",
       "tipo": "PLA Pure",
       "colorName": "Pure White",
       "colorHex": 4294967295,
@@ -2069,9 +1881,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Apricot",
-      "marca": "bambu lab",
       "id": "PLA-BAM-032",
+      "marca": "bambu lab",
       "tipo": "PLA Pure",
       "colorName": "Apricot",
       "colorHex": 4294751609,
@@ -2080,9 +1891,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Baby Blue",
-      "marca": "bambu lab",
       "id": "PLA-BAM-033",
+      "marca": "bambu lab",
       "tipo": "PLA Pure",
       "colorName": "Baby Blue",
       "colorHex": 4288994280,
@@ -2091,9 +1901,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Milky Pink",
-      "marca": "bambu lab",
       "id": "PLA-BAM-034",
+      "marca": "bambu lab",
       "tipo": "PLA Pure",
       "colorName": "Milky Pink",
       "colorHex": 4294430423,
@@ -2102,9 +1911,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Absolute Black",
-      "marca": "bambu lab",
       "id": "PLA-BAM-035",
+      "marca": "bambu lab",
       "tipo": "PLA Pure",
       "colorName": "Absolute Black",
       "colorHex": 4278190080,
@@ -2113,9 +1921,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Mint Lime",
-      "marca": "bambu lab",
       "id": "PLA-BAM-036",
+      "marca": "bambu lab",
       "tipo": "PLA Basic Gradient",
       "colorName": "Mint Lime",
       "colorHex": 4288473201,
@@ -2124,9 +1931,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Artic Whisper",
-      "marca": "bambu lab",
       "id": "PLA-BAM-037",
+      "marca": "bambu lab",
       "tipo": "PLA Basic Gradient",
       "colorName": "Artic Whisper",
       "colorHex": 4288469977,
@@ -2135,9 +1941,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blueberry Bubblegum",
-      "marca": "bambu lab",
       "id": "PLA-BAM-038",
+      "marca": "bambu lab",
       "tipo": "PLA Basic Gradient",
       "colorName": "Blueberry Bubblegum",
       "colorHex": 4285516527,
@@ -2146,9 +1951,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Ocean to Meadow",
-      "marca": "bambu lab",
       "id": "PLA-BAM-039",
+      "marca": "bambu lab",
       "tipo": "PLA Basic Gradient",
       "colorName": "Ocean to Meadow",
       "colorHex": 4281368546,
@@ -2157,9 +1961,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Cotton Candy Cloud",
-      "marca": "bambu lab",
       "id": "PLA-BAM-040",
+      "marca": "bambu lab",
       "tipo": "PLA Basic Gradient",
       "colorName": "Cotton Candy Cloud",
       "colorHex": 4293378517,
@@ -2168,9 +1971,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blanco",
-      "marca": "smart materials",
       "id": "FLEXIBLE-SMT-FLX-001",
+      "marca": "smart materials",
       "tipo": "Flexible 85A",
       "colorName": "Blanco",
       "colorHex": 4294375158,
@@ -2179,9 +1981,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "smart materials",
       "id": "FLEXIBLE-SMT-FLX-002",
+      "marca": "smart materials",
       "tipo": "Flexible 85A",
       "colorName": "Negro",
       "colorHex": 4280359454,
@@ -2190,9 +1991,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Dawn Radiance",
-      "marca": "bambu lab",
       "id": "PLA-BAM-SLK-001",
+      "marca": "bambu lab",
       "tipo": "PLA Silk Multi-Color",
       "colorName": "Dawn Radiance",
       "colorHex": 4290672948,
@@ -2201,9 +2001,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Mystic Magenta",
-      "marca": "bambu lab",
       "id": "PLA-BAM-SLK-002",
+      "marca": "bambu lab",
       "tipo": "PLA Silk Multi-Color",
       "colorName": "Mystic Magenta",
       "colorHex": 4282421573,
@@ -2212,9 +2011,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blue Hawai",
-      "marca": "bambu lab",
       "id": "PLA-BAM-SLK-003",
+      "marca": "bambu lab",
       "tipo": "PLA Silk Multi-Color",
       "colorName": "Blue Hawai",
       "colorHex": 4278564253,
@@ -2223,9 +2021,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Phantom Blue",
-      "marca": "bambu lab",
       "id": "PLA-BAM-SLK-004",
+      "marca": "bambu lab",
       "tipo": "PLA Silk Multi-Color",
       "colorName": "Phantom Blue",
       "colorHex": 4279395224,
@@ -2234,9 +2031,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Neon City",
-      "marca": "bambu lab",
       "id": "PLA-BAM-SLK-005",
+      "marca": "bambu lab",
       "tipo": "PLA Silk Multi-Color",
       "colorName": "Neon City",
       "colorHex": 4283900772,
@@ -2245,9 +2041,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Aurora Purple",
-      "marca": "bambu lab",
       "id": "PLA-BAM-SLK-006",
+      "marca": "bambu lab",
       "tipo": "PLA Silk Multi-Color",
       "colorName": "Aurora Purple",
       "colorHex": 4284622979,
@@ -2256,9 +2051,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Midnight Blaze",
-      "marca": "bambu lab",
       "id": "PLA-BAM-SLK-007",
+      "marca": "bambu lab",
       "tipo": "PLA Silk Multi-Color",
       "colorName": "Midnight Blaze",
       "colorHex": 4287369273,
@@ -2267,9 +2061,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "South Beach",
-      "marca": "bambu lab",
       "id": "PLA-BAM-SLK-008",
+      "marca": "bambu lab",
       "tipo": "PLA Silk Multi-Color",
       "colorName": "South Beach",
       "colorHex": 4293878688,
@@ -2278,9 +2071,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Gilded Rose",
-      "marca": "bambu lab",
       "id": "PLA-BAM-SLK-009",
+      "marca": "bambu lab",
       "tipo": "PLA Silk Multi-Color",
       "colorName": "Gilded Rose",
       "colorHex": 4293560730,
@@ -2289,9 +2081,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Velvet Eclipse",
-      "marca": "bambu lab",
       "id": "PLA-BAM-SLK-010",
+      "marca": "bambu lab",
       "tipo": "PLA Silk Multi-Color",
       "colorName": "Velvet Eclipse",
       "colorHex": 4282458663,
@@ -2300,9 +2091,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blanco",
-      "marca": "smart materials",
       "id": "FLEXIBLE-SMT-FLX-003",
+      "marca": "smart materials",
       "tipo": "Flexible 98A",
       "colorName": "Blanco",
       "colorHex": 4294375158,
@@ -2311,9 +2101,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "smart materials",
       "id": "FLEXIBLE-SMT-FLX-004",
+      "marca": "smart materials",
       "tipo": "Flexible 98A",
       "colorName": "Negro",
       "colorHex": 4280359454,
@@ -2322,9 +2111,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Mellow Yellow",
-      "marca": "bambu lab",
       "id": "PLA-BAM-041",
+      "marca": "bambu lab",
       "tipo": "PLA Translucent",
       "colorName": "Mellow Yellow",
       "colorHex": 4294236846,
@@ -2333,9 +2121,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Rojo",
-      "marca": "bambu lab",
       "id": "PLA-BAM-042",
+      "marca": "bambu lab",
       "tipo": "PLA Translucent",
       "colorName": "Rojo",
       "colorHex": 4292823877,
@@ -2344,9 +2131,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Light Jade",
-      "marca": "bambu lab",
       "id": "PLA-BAM-043",
+      "marca": "bambu lab",
       "tipo": "PLA Translucent",
       "colorName": "Light Jade",
       "colorHex": 4287688336,
@@ -2355,9 +2141,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Azul",
-      "marca": "bambu lab",
       "id": "PLA-BAM-044",
+      "marca": "bambu lab",
       "tipo": "PLA Translucent",
       "colorName": "Azul",
       "colorHex": 4280965297,
@@ -2366,9 +2151,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Morado",
-      "marca": "bambu lab",
       "id": "PLA-BAM-045",
+      "marca": "bambu lab",
       "tipo": "PLA Translucent",
       "colorName": "Morado",
       "colorHex": 4287790538,
@@ -2377,9 +2161,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Glow Yellow",
-      "marca": "bambu lab",
       "id": "PLA-BAM-GLO-001",
+      "marca": "bambu lab",
       "tipo": "PLA Glow",
       "colorName": "Glow Yellow",
       "colorHex": 4294967147,
@@ -2388,9 +2171,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Glow Green",
-      "marca": "bambu lab",
       "id": "PLA-BAM-GLO-002",
+      "marca": "bambu lab",
       "tipo": "PLA Glow",
       "colorName": "Glow Green",
       "colorHex": 4288806828,
@@ -2399,9 +2181,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Glow Blue",
-      "marca": "bambu lab",
       "id": "PLA-BAM-GLO-003",
+      "marca": "bambu lab",
       "tipo": "PLA Glow",
       "colorName": "Glow Blue",
       "colorHex": 4286562791,
@@ -2410,9 +2191,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blanco",
-      "marca": "bambu lab",
       "id": "PETG-BAM-001",
+      "marca": "bambu lab",
       "tipo": "PETG Basic",
       "colorName": "Blanco",
       "colorHex": 4294375158,
@@ -2421,9 +2201,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Amarillo",
-      "marca": "bambu lab",
       "id": "PETG-BAM-002",
+      "marca": "bambu lab",
       "tipo": "PETG Basic",
       "colorName": "Amarillo",
       "colorHex": 4294633277,
@@ -2432,9 +2211,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Rojo",
-      "marca": "bambu lab",
       "id": "PETG-BAM-003",
+      "marca": "bambu lab",
       "tipo": "PETG Basic",
       "colorName": "Rojo",
       "colorHex": 4292823877,
@@ -2443,9 +2221,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Reflex Blue",
-      "marca": "bambu lab",
       "id": "PETG-BAM-004",
+      "marca": "bambu lab",
       "tipo": "PETG Basic",
       "colorName": "Reflex Blue",
       "colorHex": 4278523526,
@@ -2454,9 +2231,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Flesh",
-      "marca": "bambu lab",
       "id": "PETG-BAM-005",
+      "marca": "bambu lab",
       "tipo": "PETG Basic",
       "colorName": "Flesh",
       "colorHex": 4294106574,
@@ -2465,9 +2241,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Gray",
-      "marca": "bambu lab",
       "id": "PETG-BAM-006",
+      "marca": "bambu lab",
       "tipo": "PETG Basic",
       "colorName": "Gray",
       "colorHex": 4292072403,
@@ -2476,9 +2251,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "bambu lab",
       "id": "PETG-BAM-007",
+      "marca": "bambu lab",
       "tipo": "PETG Basic",
       "colorName": "Negro",
       "colorHex": 4280359454,
@@ -2487,9 +2261,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Translucent Clear",
-      "marca": "bambu lab",
       "id": "PETG-BAM-008",
+      "marca": "bambu lab",
       "tipo": "PETG Traslúcido",
       "colorName": "Translucent Clear",
       "colorHex": 4294967295,
@@ -2498,9 +2271,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Translucent Orange",
-      "marca": "bambu lab",
       "id": "PETG-BAM-009",
+      "marca": "bambu lab",
       "tipo": "PETG Traslúcido",
       "colorName": "Translucent Orange",
       "colorHex": 4294676275,
@@ -2509,9 +2281,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Translucent Light Blue",
-      "marca": "bambu lab",
       "id": "PETG-BAM-010",
+      "marca": "bambu lab",
       "tipo": "PETG Traslúcido",
       "colorName": "Translucent Light Blue",
       "colorHex": 4284985851,
@@ -2520,9 +2291,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Translucent Purple",
-      "marca": "bambu lab",
       "id": "PETG-BAM-011",
+      "marca": "bambu lab",
       "tipo": "PETG Traslúcido",
       "colorName": "Translucent Purple",
       "colorHex": 4292193276,
@@ -2531,9 +2301,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Translucent Pink",
-      "marca": "bambu lab",
       "id": "PETG-BAM-012",
+      "marca": "bambu lab",
       "tipo": "PETG Traslúcido",
       "colorName": "Translucent Pink",
       "colorHex": 4294426814,
@@ -2542,9 +2311,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Translucent Gray",
-      "marca": "bambu lab",
       "id": "PETG-BAM-013",
+      "marca": "bambu lab",
       "tipo": "PETG Traslúcido",
       "colorName": "Translucent Gray",
       "colorHex": 4287532686,
@@ -2553,9 +2321,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blanco",
-      "marca": "bambu lab",
       "id": "TPU-BAM-FLX-001",
+      "marca": "bambu lab",
       "tipo": "TPU para AMS",
       "colorName": "Blanco",
       "colorHex": 4294967295,
@@ -2564,9 +2331,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Amarillo",
-      "marca": "bambu lab",
       "id": "TPU-BAM-FLX-002",
+      "marca": "bambu lab",
       "tipo": "TPU para AMS",
       "colorName": "Amarillo",
       "colorHex": 4294633277,
@@ -2575,9 +2341,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Rojo",
-      "marca": "bambu lab",
       "id": "TPU-BAM-FLX-003",
+      "marca": "bambu lab",
       "tipo": "TPU para AMS",
       "colorName": "Rojo",
       "colorHex": 4292823877,
@@ -2586,9 +2351,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Neon Green",
-      "marca": "bambu lab",
       "id": "TPU-BAM-FLX-004",
+      "marca": "bambu lab",
       "tipo": "TPU para AMS",
       "colorName": "Neon Green",
       "colorHex": 4288085826,
@@ -2597,9 +2361,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Azul",
-      "marca": "bambu lab",
       "id": "TPU-BAM-FLX-005",
+      "marca": "bambu lab",
       "tipo": "TPU para AMS",
       "colorName": "Azul",
       "colorHex": 4278228735,
@@ -2608,9 +2371,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "bambu lab",
       "id": "TPU-BAM-FLX-006",
+      "marca": "bambu lab",
       "tipo": "TPU para AMS",
       "colorName": "Negro",
       "colorHex": 4280359454,
@@ -2619,10 +2381,9 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blanco",
-      "marca": "bambu lab",
       "id": "TPU-BAM-FLX-007",
-      "tipo": "TPU 85A / 90A",
+      "marca": "bambu lab",
+      "tipo": "TPU 85A \/ 90A",
       "colorName": "Blanco",
       "colorHex": 4294967295,
       "precioKilo": 44,
@@ -2630,10 +2391,9 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blaze",
-      "marca": "bambu lab",
       "id": "TPU-BAM-FLX-008",
-      "tipo": "TPU 85A / 90A",
+      "marca": "bambu lab",
+      "tipo": "TPU 85A \/ 90A",
       "colorName": "Blaze",
       "colorHex": 4293008687,
       "precioKilo": 44,
@@ -2641,10 +2401,9 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "bambu lab",
       "id": "TPU-BAM-FLX-009",
-      "tipo": "TPU 85A / 90A",
+      "marca": "bambu lab",
+      "tipo": "TPU 85A \/ 90A",
       "colorName": "Negro",
       "colorHex": 4280359454,
       "precioKilo": 44,
@@ -2652,9 +2411,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Rojo ladrillo",
-      "marca": "bambu lab",
       "id": "PETG-BAM-CF-001",
+      "marca": "bambu lab",
       "tipo": "PETG-CF",
       "colorName": "Rojo ladrillo",
       "colorHex": 4288623402,
@@ -2663,9 +2421,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Malachite Green",
-      "marca": "bambu lab",
       "id": "PETG-BAM-CF-002",
+      "marca": "bambu lab",
       "tipo": "PETG-CF",
       "colorName": "Malachite Green",
       "colorHex": 4279677070,
@@ -2674,9 +2431,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Carbon Fiber Black",
-      "marca": "bambu lab",
       "id": "PETG-BAM-CF-003",
+      "marca": "bambu lab",
       "tipo": "PETG-CF",
       "colorName": "Carbon Fiber Black",
       "colorHex": 4282203199,
@@ -2685,9 +2441,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blanco",
-      "marca": "bambu lab",
       "id": "ABS-BAM-001",
+      "marca": "bambu lab",
       "tipo": "ABS",
       "colorName": "Blanco",
       "colorHex": 4294375158,
@@ -2696,9 +2451,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "bambu lab",
       "id": "ABS-BAM-002",
+      "marca": "bambu lab",
       "tipo": "ABS",
       "colorName": "Negro",
       "colorHex": 4278190080,
@@ -2707,9 +2461,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blanco",
-      "marca": "bambu lab",
       "id": "ABS-BAM-003",
+      "marca": "bambu lab",
       "tipo": "ABS Refill",
       "colorName": "Blanco",
       "colorHex": 4294967295,
@@ -2718,9 +2471,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "bambu lab",
       "id": "ABS-BAM-004",
+      "marca": "bambu lab",
       "tipo": "ABS Refill",
       "colorName": "Negro",
       "colorHex": 4278190080,
@@ -2729,9 +2481,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blanco",
-      "marca": "bambu lab",
       "id": "ASA-BAM-001",
+      "marca": "bambu lab",
       "tipo": "ASA",
       "colorName": "Blanco",
       "colorHex": 4294375158,
@@ -2740,9 +2491,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "bambu lab",
       "id": "ASA-BAM-002",
+      "marca": "bambu lab",
       "tipo": "ASA",
       "colorName": "Negro",
       "colorHex": 4280359454,
@@ -2751,9 +2501,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Ruby",
-      "marca": "smart materials",
       "id": "ASA-SMT-001",
+      "marca": "smart materials",
       "tipo": "ASA",
       "colorName": "Ruby",
       "colorHex": 4288352542,
@@ -2762,9 +2511,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Orinoco",
-      "marca": "smart materials",
       "id": "ASA-SMT-002",
+      "marca": "smart materials",
       "tipo": "ASA",
       "colorName": "Orinoco",
       "colorHex": 4293246465,
@@ -2773,9 +2521,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Chlorophyll",
-      "marca": "smart materials",
       "id": "ASA-SMT-003",
+      "marca": "smart materials",
       "tipo": "ASA",
       "colorName": "Chlorophyll",
       "colorHex": 4281161516,
@@ -2784,9 +2531,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Cobalt",
-      "marca": "smart materials",
       "id": "ASA-SMT-004",
+      "marca": "smart materials",
       "tipo": "ASA",
       "colorName": "Cobalt",
       "colorHex": 4278190219,
@@ -2795,9 +2541,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "True Black",
-      "marca": "smart materials",
       "id": "ASA-SMT-005",
+      "marca": "smart materials",
       "tipo": "ASA",
       "colorName": "True Black",
       "colorHex": 4280953130,
@@ -2806,9 +2551,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "recreus",
       "id": "FLEXIBLE-REC-FLX-001",
+      "marca": "recreus",
       "tipo": "Flexible Filaflex 60A",
       "colorName": "Negro",
       "colorHex": 4280359454,
@@ -2817,9 +2561,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Rojo",
-      "marca": "recreus",
       "id": "FLEXIBLE-REC-FLX-002",
+      "marca": "recreus",
       "tipo": "Flexible Filaflex 82A",
       "colorName": "Rojo",
       "colorHex": 4292161586,
@@ -2828,9 +2571,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Rojo",
-      "marca": "recreus",
       "id": "PLA-REC-001",
+      "marca": "recreus",
       "tipo": "PLA",
       "colorName": "Rojo",
       "colorHex": 4292161586,
@@ -2839,9 +2581,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Copper Gum",
-      "marca": "recreus",
       "id": "PETG-REC-001",
+      "marca": "recreus",
       "tipo": "PETG",
       "colorName": "Copper Gum",
       "colorHex": 4289156923,
@@ -2850,9 +2591,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Natural",
-      "marca": "recreus",
       "id": "PLA-REC-002",
+      "marca": "recreus",
       "tipo": "PLA LW (Light Weight)",
       "colorName": "Natural",
       "colorHex": 4291998860,
@@ -2861,9 +2601,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "recreus",
       "id": "PLA-REC-003",
+      "marca": "recreus",
       "tipo": "PLA LW (Light Weight)",
       "colorName": "Negro",
       "colorHex": 4280359454,
@@ -2872,9 +2611,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Natural",
-      "marca": "recreus",
       "id": "FIL-REC-001",
+      "marca": "recreus",
       "tipo": "Polipropileno PP3D",
       "colorName": "Natural",
       "colorHex": 4291998860,
@@ -2883,9 +2621,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "recreus",
       "id": "FIL-REC-002",
+      "marca": "recreus",
       "tipo": "Polipropileno PP3D",
       "colorName": "Negro",
       "colorHex": 4280359454,
@@ -2894,9 +2631,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Natural",
-      "marca": "recreus",
       "id": "FIL-REC-003",
+      "marca": "recreus",
       "tipo": "Polipropileno PPGF",
       "colorName": "Natural",
       "colorHex": 4291998860,
@@ -2905,9 +2641,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "recreus",
       "id": "FIL-REC-004",
+      "marca": "recreus",
       "tipo": "Polipropileno PPGF",
       "colorName": "Negro",
       "colorHex": 4280359454,
@@ -2916,9 +2651,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blanco",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-001",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Ingeo",
       "colorName": "Blanco",
       "colorHex": 4294375158,
@@ -2927,9 +2661,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Marfil",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-002",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Ingeo",
       "colorName": "Marfil",
       "colorHex": 4294833379,
@@ -2938,9 +2671,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Amarillo",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-003",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Ingeo",
       "colorName": "Amarillo",
       "colorHex": 4294704956,
@@ -2949,9 +2681,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Orange fresh",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-004",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Ingeo",
       "colorName": "Orange fresh",
       "colorHex": 4294943776,
@@ -2960,9 +2691,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Naranja",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-005",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Ingeo",
       "colorName": "Naranja",
       "colorHex": 4294666026,
@@ -2971,9 +2701,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Rojo",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-006",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Ingeo",
       "colorName": "Rojo",
       "colorHex": 4292161586,
@@ -2982,9 +2711,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Verde",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-007",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Ingeo",
       "colorName": "Verde",
       "colorHex": 4283934265,
@@ -2993,9 +2721,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Militar 2",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-008",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Ingeo",
       "colorName": "Militar 2",
       "colorHex": 4283982883,
@@ -3004,9 +2731,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Militar 1",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-009",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Ingeo",
       "colorName": "Militar 1",
       "colorHex": 4279460974,
@@ -3015,9 +2741,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Surf green",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-010",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Ingeo",
       "colorName": "Surf green",
       "colorHex": 4281914820,
@@ -3026,9 +2751,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Celeste",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-011",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Ingeo",
       "colorName": "Celeste",
       "colorHex": 4290037981,
@@ -3037,9 +2761,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Solidary",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-012",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Ingeo",
       "colorName": "Solidary",
       "colorHex": 4280257759,
@@ -3048,9 +2771,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Azul",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-013",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Ingeo",
       "colorName": "Azul",
       "colorHex": 4280965297,
@@ -3059,9 +2781,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Púrpura",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-014",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Ingeo",
       "colorName": "Púrpura",
       "colorHex": 4285349723,
@@ -3070,9 +2791,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Fucsia",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-015",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Ingeo",
       "colorName": "Fucsia",
       "colorHex": 4292161690,
@@ -3081,9 +2801,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Rosa",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-016",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Ingeo",
       "colorName": "Rosa",
       "colorHex": 4294342791,
@@ -3092,9 +2811,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Terracota",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-017",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Ingeo",
       "colorName": "Terracota",
       "colorHex": 4292046448,
@@ -3103,9 +2821,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Skin Tone 2",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-018",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Ingeo",
       "colorName": "Skin Tone 2",
       "colorHex": 4294233769,
@@ -3114,9 +2831,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Skin Tone 1",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-019",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Ingeo",
       "colorName": "Skin Tone 1",
       "colorHex": 4294303675,
@@ -3125,9 +2841,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Natural",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-020",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Ingeo",
       "colorName": "Natural",
       "colorHex": 4291998860,
@@ -3136,9 +2851,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Chocolate",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-021",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Ingeo",
       "colorName": "Chocolate",
       "colorHex": 4284693044,
@@ -3147,9 +2861,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Dorado",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-022",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Ingeo",
       "colorName": "Dorado",
       "colorHex": 4285292608,
@@ -3158,9 +2871,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Gris",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-023",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Ingeo",
       "colorName": "Gris",
       "colorHex": 4288387995,
@@ -3169,9 +2881,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Plata",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-024",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Ingeo",
       "colorName": "Plata",
       "colorHex": 4286744975,
@@ -3180,9 +2891,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-025",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Ingeo",
       "colorName": "Negro",
       "colorHex": 4280359454,
@@ -3191,9 +2901,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Sunset",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-SLK-001",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Ingeo Silk",
       "colorName": "Sunset",
       "colorHex": 4294150912,
@@ -3202,9 +2911,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Wine",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-SLK-002",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Ingeo Silk",
       "colorName": "Wine",
       "colorHex": 4285278003,
@@ -3213,9 +2921,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Clover",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-SLK-003",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Ingeo Silk",
       "colorName": "Clover",
       "colorHex": 4280658450,
@@ -3224,9 +2931,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Midnight",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-SLK-004",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Ingeo Silk",
       "colorName": "Midnight",
       "colorHex": 4285349723,
@@ -3235,9 +2941,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Artic",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-SLK-005",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Ingeo Silk",
       "colorName": "Artic",
       "colorHex": 4288387995,
@@ -3246,9 +2951,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blanco",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-WOD-001",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Textura Madera",
       "colorName": "Blanco",
       "colorHex": 4294375158,
@@ -3257,9 +2961,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Arce",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-WOD-002",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Textura Madera",
       "colorName": "Arce",
       "colorHex": 4292460578,
@@ -3268,9 +2971,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Roble",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-WOD-003",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Textura Madera",
       "colorName": "Roble",
       "colorHex": 4285881416,
@@ -3279,9 +2981,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Amarillo",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-026",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Glass",
       "colorName": "Amarillo",
       "colorHex": 4294704956,
@@ -3290,9 +2991,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Naranja",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-027",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Glass",
       "colorName": "Naranja",
       "colorHex": 4294666026,
@@ -3301,9 +3001,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Rojo",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-028",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Glass",
       "colorName": "Rojo",
       "colorHex": 4292161586,
@@ -3312,9 +3011,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Morado",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-029",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Glass",
       "colorName": "Morado",
       "colorHex": 4287790538,
@@ -3323,9 +3021,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Naranja flúor",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-030",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Quartz",
       "colorName": "Naranja flúor",
       "colorHex": 4294944000,
@@ -3334,9 +3031,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Fluor Lima",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-031",
+      "marca": "sakata 3d",
       "tipo": "PLA 850 Quartz",
       "colorName": "Fluor Lima",
       "colorHex": 4291624704,
@@ -3345,9 +3041,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Azul",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-032",
+      "marca": "sakata 3d",
       "tipo": "PLA High Speed",
       "colorName": "Azul",
       "colorHex": 4280965297,
@@ -3356,9 +3051,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blanco",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-033",
+      "marca": "sakata 3d",
       "tipo": "PLA 870 Ingeo (Premium de Alta Resistencia)",
       "colorName": "Blanco",
       "colorHex": 4294375158,
@@ -3367,9 +3061,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Gris",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-034",
+      "marca": "sakata 3d",
       "tipo": "PLA 870 Ingeo (Premium de Alta Resistencia)",
       "colorName": "Gris",
       "colorHex": 4288387995,
@@ -3378,9 +3071,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "sakata 3d",
       "id": "PLA-SAK-035",
+      "marca": "sakata 3d",
       "tipo": "PLA 870 Ingeo (Premium de Alta Resistencia)",
       "colorName": "Negro",
       "colorHex": 4280359454,
@@ -3389,9 +3081,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blanco",
-      "marca": "sakata 3d",
       "id": "PETG-SAK-001",
+      "marca": "sakata 3d",
       "tipo": "PETG",
       "colorName": "Blanco",
       "colorHex": 4294375158,
@@ -3400,9 +3091,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Ámbar",
-      "marca": "sakata 3d",
       "id": "PETG-SAK-002",
+      "marca": "sakata 3d",
       "tipo": "PETG",
       "colorName": "Ámbar",
       "colorHex": 4294950656,
@@ -3411,9 +3101,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Rubí",
-      "marca": "sakata 3d",
       "id": "PETG-SAK-003",
+      "marca": "sakata 3d",
       "tipo": "PETG",
       "colorName": "Rubí",
       "colorHex": 4289462288,
@@ -3422,9 +3111,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Esmeralda",
-      "marca": "sakata 3d",
       "id": "PETG-SAK-004",
+      "marca": "sakata 3d",
       "tipo": "PETG",
       "colorName": "Esmeralda",
       "colorHex": 4280840755,
@@ -3433,9 +3121,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Zafiro",
-      "marca": "sakata 3d",
       "id": "PETG-SAK-005",
+      "marca": "sakata 3d",
       "tipo": "PETG",
       "colorName": "Zafiro",
       "colorHex": 4280295759,
@@ -3444,9 +3131,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Natural",
-      "marca": "sakata 3d",
       "id": "PETG-SAK-006",
+      "marca": "sakata 3d",
       "tipo": "PETG",
       "colorName": "Natural",
       "colorHex": 4291998860,
@@ -3455,9 +3141,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Gris",
-      "marca": "sakata 3d",
       "id": "PETG-SAK-007",
+      "marca": "sakata 3d",
       "tipo": "PETG",
       "colorName": "Gris",
       "colorHex": 4288387995,
@@ -3466,9 +3151,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "sakata 3d",
       "id": "PETG-SAK-008",
+      "marca": "sakata 3d",
       "tipo": "PETG",
       "colorName": "Negro",
       "colorHex": 4280359454,
@@ -3477,9 +3161,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blanco",
-      "marca": "sakata 3d",
       "id": "ABS-SAK-001",
+      "marca": "sakata 3d",
       "tipo": "ABS",
       "colorName": "Blanco",
       "colorHex": 4294375158,
@@ -3488,9 +3171,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Gris",
-      "marca": "sakata 3d",
       "id": "ABS-SAK-002",
+      "marca": "sakata 3d",
       "tipo": "ABS",
       "colorName": "Gris",
       "colorHex": 4288387995,
@@ -3499,9 +3181,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "sakata 3d",
       "id": "ABS-SAK-003",
+      "marca": "sakata 3d",
       "tipo": "ABS",
       "colorName": "Negro",
       "colorHex": 4280359454,
@@ -3510,9 +3191,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Natural",
-      "marca": "sakata 3d",
       "id": "ASA-SAK-001",
+      "marca": "sakata 3d",
       "tipo": "ASA",
       "colorName": "Natural",
       "colorHex": 4291998860,
@@ -3521,9 +3201,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "sakata 3d",
       "id": "ASA-SAK-002",
+      "marca": "sakata 3d",
       "tipo": "ASA",
       "colorName": "Negro",
       "colorHex": 4280359454,
@@ -3532,9 +3211,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blanco marfil",
-      "marca": "smart materials",
       "id": "PP-SMT-001",
+      "marca": "smart materials",
       "tipo": "PP",
       "colorName": "Blanco marfil",
       "colorHex": 4294506482,
@@ -3543,9 +3221,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "True Black",
-      "marca": "smart materials",
       "id": "PP-SMT-002",
+      "marca": "smart materials",
       "tipo": "PP",
       "colorName": "True Black",
       "colorHex": 4280953130,
@@ -3554,9 +3231,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blanco marfil",
-      "marca": "smart materials",
       "id": "FIL-SMT-009",
+      "marca": "smart materials",
       "tipo": "EP Cerámico",
       "colorName": "Blanco marfil",
       "colorHex": 4294506482,
@@ -3565,9 +3241,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "True Black",
-      "marca": "smart materials",
       "id": "FIL-SMT-010",
+      "marca": "smart materials",
       "tipo": "EP Cerámico",
       "colorName": "True Black",
       "colorHex": 4280953130,
@@ -3576,9 +3251,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Multicolor",
-      "marca": "creality",
       "id": "FIL-CRE-010",
+      "marca": "creality",
       "tipo": "Creality CR-PLA Rainbow",
       "colorName": "Multicolor",
       "colorHex": 4294967295,
@@ -3587,9 +3261,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Multicolor",
-      "marca": "creality",
       "id": "FIL-CRE-SLK-001",
+      "marca": "creality",
       "tipo": "Creality CR-Silk Rainbow",
       "colorName": "Multicolor",
       "colorHex": 4294967295,
@@ -3598,9 +3271,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Multicolor",
-      "marca": "creality",
       "id": "FIL-CRE-011",
+      "marca": "creality",
       "tipo": "Creality Hyper PLA Wild Blossom-L Rainbow",
       "colorName": "Multicolor",
       "colorHex": 4294967295,
@@ -3609,9 +3281,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blanco",
-      "marca": "smartfil",
       "id": "FIL-SMF-FLX-001",
+      "marca": "smartfil",
       "tipo": "Smartfil Flexible 77A",
       "colorName": "Blanco",
       "colorHex": 4294967295,
@@ -3620,9 +3291,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "smartfil",
       "id": "FIL-SMF-FLX-002",
+      "marca": "smartfil",
       "tipo": "Smartfil Flex Foam",
       "colorName": "Negro",
       "colorHex": 4278190080,
@@ -3631,9 +3301,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Multicolor",
-      "marca": "bambu lab",
       "id": "FIL-BAM-001",
+      "marca": "bambu lab",
       "tipo": "Bambu Lab PLA CMYK Lithophane Bundle",
       "colorName": "Multicolor",
       "colorHex": 4294967295,
@@ -3642,9 +3311,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "innovatefil",
       "id": "FIL-INN-CF-001",
+      "marca": "innovatefil",
       "tipo": "Innovatefil PETG Fibra de Carbono",
       "colorName": "Negro",
       "colorHex": 4278190080,
@@ -3653,9 +3321,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "bambu lab",
       "id": "FIL-BAM-CF-001",
+      "marca": "bambu lab",
       "tipo": "Bambu Lab PAHT-CF",
       "colorName": "Negro",
       "colorHex": 4278190080,
@@ -3664,9 +3331,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "bambu lab",
       "id": "FIL-BAM-002",
+      "marca": "bambu lab",
       "tipo": "Bambu Lab PA6-GF",
       "colorName": "Negro",
       "colorHex": 4278190080,
@@ -3675,9 +3341,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "bambu lab",
       "id": "FIL-BAM-003",
+      "marca": "bambu lab",
       "tipo": "Bambu Lab PC",
       "colorName": "Negro",
       "colorHex": 4278190080,
@@ -3686,9 +3351,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Transparente",
-      "marca": "bambu lab",
       "id": "FIL-BAM-004",
+      "marca": "bambu lab",
       "tipo": "Bambu Lab PVA",
       "colorName": "Transparente",
       "colorHex": 4294967295,
@@ -3697,10 +3361,9 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Transparente",
-      "marca": "bambu lab",
       "id": "FIL-BAM-005",
-      "tipo": "Bambu Lab Support for PLA/PETG",
+      "marca": "bambu lab",
+      "tipo": "Bambu Lab Support for PLA\/PETG",
       "colorName": "Transparente",
       "colorHex": 4294967295,
       "precioKilo": 37,
@@ -3708,9 +3371,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blanco",
-      "marca": "innovatefil",
       "id": "FIL-INN-001",
+      "marca": "innovatefil",
       "tipo": "Innovatefil ASA GF",
       "colorName": "Blanco",
       "colorHex": 4294967295,
@@ -3719,9 +3381,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blanco",
-      "marca": "smart materials",
       "id": "FIL-SMT-011",
+      "marca": "smart materials",
       "tipo": "de limpieza Smart Materials Clean",
       "colorName": "Blanco",
       "colorHex": 4294967295,
@@ -3730,9 +3391,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blanco",
-      "marca": "smart materials",
       "id": "FIL-SMT-012",
+      "marca": "smart materials",
       "tipo": "Smart Materials Antibacteriano",
       "colorName": "Blanco",
       "colorHex": 4294967295,
@@ -3741,9 +3401,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "recreus",
       "id": "FIL-REC-FLX-001",
+      "marca": "recreus",
       "tipo": "Recreus Flexible Reciflex",
       "colorName": "Negro",
       "colorHex": 4278190080,
@@ -3752,9 +3411,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blanco",
-      "marca": "recreus",
       "id": "FIL-REC-005",
+      "marca": "recreus",
       "tipo": "Recreus PLA Purifier",
       "colorName": "Blanco",
       "colorHex": 4294967295,
@@ -3763,9 +3421,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blanco",
-      "marca": "sakata 3d",
       "id": "FIL-SAK-001",
+      "marca": "sakata 3d",
       "tipo": "SAKATA 3D PLA 850 Granito",
       "colorName": "Blanco",
       "colorHex": 4294967295,
@@ -3774,9 +3431,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "sakata 3d",
       "id": "FIL-SAK-CF-001",
+      "marca": "sakata 3d",
       "tipo": "SAKATA 3D PETG-CF15",
       "colorName": "Negro",
       "colorHex": 4278190080,
@@ -3785,9 +3441,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "sakata 3d",
       "id": "FIL-SAK-CF-002",
+      "marca": "sakata 3d",
       "tipo": "SAKATA 3D PA-CF15 NYLON",
       "colorName": "Negro",
       "colorHex": 4278190080,
@@ -3796,9 +3451,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Transparente",
-      "marca": "sakata 3d",
       "id": "FIL-SAK-002",
+      "marca": "sakata 3d",
       "tipo": "SAKATA 3D PA-NT NYLON",
       "colorName": "Transparente",
       "colorHex": 4294967295,
@@ -3807,9 +3461,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Transparente",
-      "marca": "sakata 3d",
       "id": "FIL-SAK-003",
+      "marca": "sakata 3d",
       "tipo": "SAKATA 3D PA-GF20-FR NYLON",
       "colorName": "Transparente",
       "colorHex": 4294967295,
@@ -3818,9 +3471,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Transparente",
-      "marca": "smart materials",
       "id": "FIL-SMT-013",
+      "marca": "smart materials",
       "tipo": "Smart Materials Nylstrong – Nylon (PA6)",
       "colorName": "Transparente",
       "colorHex": 4294967295,
@@ -3829,9 +3481,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "smart materials",
       "id": "FIL-SMT-CF-001",
+      "marca": "smart materials",
       "tipo": "Smart Materials PA Fibra de Carbono",
       "colorName": "Negro",
       "colorHex": 4278190080,
@@ -3840,9 +3491,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Transparente",
-      "marca": "smart materials",
       "id": "FIL-SMT-014",
+      "marca": "smart materials",
       "tipo": "Smart Materials Smartfil Glace",
       "colorName": "Transparente",
       "colorHex": 4294967295,
@@ -3851,9 +3501,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Transparente",
-      "marca": "smart materials",
       "id": "FIL-SMT-015",
+      "marca": "smart materials",
       "tipo": "Smart Materials PVA Soluble",
       "colorName": "Transparente",
       "colorHex": 4294967295,
@@ -3862,9 +3511,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Negro",
-      "marca": "smart materials",
       "id": "FIL-SMT-FLX-001",
+      "marca": "smart materials",
       "tipo": "Smart Materials TPU Hardness +",
       "colorName": "Negro",
       "colorHex": 4278190080,
@@ -3873,9 +3521,8 @@
       "estadoStock": "Sin stock"
     },
     {
-      "Nombre": "Blanco",
-      "marca": "smart materials",
       "id": "FIL-SMT-016",
+      "marca": "smart materials",
       "tipo": "Smart Materials ABS FP Fireproof",
       "colorName": "Blanco",
       "colorHex": 4294967295,
