@@ -23,6 +23,18 @@
       "telefono": "",
       "correo": "",
       "redesSociales": ""
+    },
+    {
+      "id": "1792103356250",
+      "tipoCliente": "Particular",
+      "nombreOrganizacion": "",
+      "personaContacto": "",
+      "nombre": "peco",
+      "dni": "",
+      "direccion": "",
+      "telefono": "",
+      "correo": "",
+      "redesSociales": ""
     }
   ]
 }
