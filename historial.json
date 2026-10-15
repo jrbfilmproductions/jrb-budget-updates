@@ -1,6 +1,18 @@
 {
   "historial": [
     {
+      "id": "JRB-2026-012",
+      "cliente": "pruebanueva04",
+      "fecha": "15\/10\/2026 04:56",
+      "gramos": 150,
+      "horas": 6,
+      "total": 3.42143177986145,
+      "regalo": false,
+      "beneficio": 0.9592800140380859,
+      "pdfUri": "",
+      "estado": "Pendiente"
+    },
+    {
       "id": "JRB-2026-026",
       "cliente": "prueba 002",
       "fecha": "15\/10\/2026 01:30",
