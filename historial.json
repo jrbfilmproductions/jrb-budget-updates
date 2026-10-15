@@ -23,18 +23,6 @@
       "beneficio": 0.36568379402160645,
       "pdfUri": "content:\/\/media\/external\/downloads\/176",
       "estado": "Aceptado"
-    },
-    {
-      "id": "JRB-2026-018",
-      "cliente": "Cliente Final",
-      "fecha": "07\/10\/2026 19:17",
-      "gramos": 150,
-      "horas": 6,
-      "total": 7.186376571655273,
-      "regalo": false,
-      "beneficio": 1.0074357986450195,
-      "pdfUri": "content:\/\/media\/external\/downloads\/75",
-      "estado": "Aceptado"
     }
   ]
 }
