@@ -28,7 +28,7 @@
       "colorHex": 4294634053,
       "precioKilo": 14,
       "gramosDisponibles": 1000,
-      "estadoStock": "Sin stock"
+      "estadoStock": "En Stock"
     },
     {
       "id": "PLA-SUG-004",
@@ -38,7 +38,7 @@
       "colorHex": 4294666026,
       "precioKilo": 14,
       "gramosDisponibles": 1000,
-      "estadoStock": "Sin stock"
+      "estadoStock": "En Stock"
     },
     {
       "id": "PLA-SUG-005",
@@ -48,7 +48,7 @@
       "colorHex": 4291499042,
       "precioKilo": 14,
       "gramosDisponibles": 1000,
-      "estadoStock": "Sin stock"
+      "estadoStock": "En Stock"
     },
     {
       "id": "PLA-SUG-006",
@@ -58,7 +58,7 @@
       "colorHex": 4289668132,
       "precioKilo": 14,
       "gramosDisponibles": 1000,
-      "estadoStock": "Sin stock"
+      "estadoStock": "En Stock"
     },
     {
       "id": "PLA-SUG-007",
@@ -68,7 +68,7 @@
       "colorHex": 4292077715,
       "precioKilo": 14,
       "gramosDisponibles": 1000,
-      "estadoStock": "Sin stock"
+      "estadoStock": "En Stock"
     },
     {
       "id": "PLA-SUG-008",
