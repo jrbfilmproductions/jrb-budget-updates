@@ -47,6 +47,18 @@
       "telefono": "",
       "correo": "",
       "redesSociales": ""
+    },
+    {
+      "id": "1792105832848",
+      "tipoCliente": "Particular",
+      "nombreOrganizacion": "",
+      "personaContacto": "",
+      "nombre": "Paca",
+      "dni": "",
+      "direccion": "",
+      "telefono": "",
+      "correo": "",
+      "redesSociales": ""
     }
   ]
 }
