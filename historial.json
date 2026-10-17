@@ -23,18 +23,6 @@
       "beneficio": 7.397636413574219,
       "pdfUri": "content:\/\/media\/external\/downloads\/202",
       "estado": "Aceptado"
-    },
-    {
-      "id": "JRB-2026-037",
-      "cliente": "peco",
-      "fecha": "15\/10\/2026 22:36",
-      "gramos": 150,
-      "horas": 6,
-      "total": 2.608544111251831,
-      "regalo": false,
-      "beneficio": 0.36568379402160645,
-      "pdfUri": "content:\/\/media\/external\/downloads\/181",
-      "estado": "Aceptado"
     }
   ]
 }
