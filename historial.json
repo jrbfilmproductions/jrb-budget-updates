@@ -1,6 +1,18 @@
 {
   "historial": [
     {
+      "id": "JRB-2026-020",
+      "cliente": "Paca",
+      "fecha": "18\/10\/2026 19:41",
+      "gramos": 150,
+      "horas": 6,
+      "total": 3.42143177986145,
+      "regalo": false,
+      "beneficio": 0.9592800140380859,
+      "pdfUri": "",
+      "estado": "Pendiente"
+    },
+    {
       "id": "JRB-2026-045",
       "cliente": "suegro de raul",
       "fecha": "18\/10\/2026 15:28",
