@@ -1,6 +1,18 @@
 {
   "historial": [
     {
+      "id": "JRB-2026-022",
+      "cliente": "isra",
+      "fecha": "01\/11\/2026 14:55",
+      "gramos": 451.54998779296875,
+      "horas": 27,
+      "total": 57.34245681762695,
+      "regalo": false,
+      "beneficio": 16.07732391357422,
+      "pdfUri": "content:\/\/media\/external\/downloads\/1000195904",
+      "estado": "Pendiente"
+    },
+    {
       "id": "JRB-2026-020",
       "cliente": "Paca",
       "fecha": "18\/10\/2026 19:41",
