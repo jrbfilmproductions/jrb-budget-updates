@@ -1,6 +1,18 @@
 {
   "historial": [
     {
+      "id": "JRB-2026-045",
+      "cliente": "raul",
+      "fecha": "13\/11\/2026 04:48",
+      "gramos": 150,
+      "horas": 6,
+      "total": 2.608544111251831,
+      "regalo": false,
+      "beneficio": 0.36568379402160645,
+      "pdfUri": "",
+      "estado": "Aceptado"
+    },
+    {
       "id": "JRB-2026-024",
       "cliente": "ale",
       "fecha": "06\/11\/2026 14:03",
@@ -46,18 +58,6 @@
       "regalo": false,
       "beneficio": 0.9592800140380859,
       "pdfUri": "content:\/\/media\/external\/downloads\/1000191036",
-      "estado": "Aceptado"
-    },
-    {
-      "id": "JRB-2026-045",
-      "cliente": "suegro de raul",
-      "fecha": "18\/10\/2026 15:28",
-      "gramos": 314,
-      "horas": 20,
-      "total": 45.777984619140625,
-      "regalo": false,
-      "beneficio": 6.417472839355469,
-      "pdfUri": "content:\/\/media\/external\/downloads\/1000190749",
       "estado": "Aceptado"
     },
     {
