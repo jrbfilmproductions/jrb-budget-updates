@@ -7,7 +7,7 @@
       "colorName": "Blanco",
       "colorHex": 4294967295,
       "precioKilo": 14,
-      "gramosDisponibles": 1000,
+      "gramosDisponibles": 975,
       "estadoStock": "En Stock"
     },
     {
@@ -37,7 +37,7 @@
       "colorName": "Naranja",
       "colorHex": 4294666026,
       "precioKilo": 14,
-      "gramosDisponibles": 1000,
+      "gramosDisponibles": 975,
       "estadoStock": "En Stock"
     },
     {
