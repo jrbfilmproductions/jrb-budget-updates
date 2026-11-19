@@ -59,6 +59,18 @@
       "telefono": "",
       "correo": "",
       "redesSociales": ""
+    },
+    {
+      "id": "1795124491127",
+      "tipoCliente": "Particular",
+      "nombreOrganizacion": "",
+      "personaContacto": "",
+      "nombre": "aruma",
+      "dni": "",
+      "direccion": "",
+      "telefono": "",
+      "correo": "",
+      "redesSociales": ""
     }
   ]
 }
