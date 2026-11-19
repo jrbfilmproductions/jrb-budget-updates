@@ -9,11 +9,11 @@
       "total": 2.608544111251831,
       "regalo": false,
       "beneficio": 0.36568379402160645,
-      "pdfUri": "content:\/\/media\/external\/downloads\/218",
-      "estado": "Aceptado",
-      "esFactura": false,
-      "numeroFactura": "",
-      "fechaFactura": ""
+      "pdfUri": "content:\/\/media\/external\/downloads\/219",
+      "estado": "Entregado",
+      "esFactura": true,
+      "numeroFactura": "FAC-2026-049",
+      "fechaFactura": "19\/11\/2026 06:13"
     }
   ]
 }
