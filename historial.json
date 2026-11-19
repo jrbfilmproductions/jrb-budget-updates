@@ -1,3 +1,19 @@
 {
-  "historial": []
+  "historial": [
+    {
+      "id": "JRB-2026-004",
+      "cliente": "raul",
+      "fecha": "19\/11\/2026 19:00",
+      "gramos": 150,
+      "horas": 5,
+      "total": 2.723914384841919,
+      "regalo": false,
+      "beneficio": 0.7637143135070801,
+      "pdfUri": "",
+      "estado": "Pendiente",
+      "esFactura": false,
+      "numeroFactura": "",
+      "fechaFactura": ""
+    }
+  ]
 }
