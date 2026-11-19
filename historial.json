@@ -9,11 +9,11 @@
       "total": 2.723914384841919,
       "regalo": false,
       "beneficio": 0.7637143135070801,
-      "pdfUri": "content:\/\/media\/external\/downloads\/84125",
-      "estado": "Aceptado",
-      "esFactura": false,
-      "numeroFactura": "",
-      "fechaFactura": ""
+      "pdfUri": "content:\/\/media\/external\/downloads\/84126",
+      "estado": "Entregado",
+      "esFactura": true,
+      "numeroFactura": "FAC-2026-005",
+      "fechaFactura": "19\/11\/2026 19:00"
     }
   ]
 }
