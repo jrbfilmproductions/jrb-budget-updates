@@ -12,7 +12,7 @@
     },
     {
       "username": "esther",
-      "password": "Temp1234*",
+      "password": "0962",
       "nombre": "Esther",
       "esAdmin": false,
       "permisos": [
@@ -20,7 +20,7 @@
         "pantalla_chat",
         "generar_pdf"
       ],
-      "requiereCambioPassword": true
+      "requiereCambioPassword": false
     }
   ]
 }
