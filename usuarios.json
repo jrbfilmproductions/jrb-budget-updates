@@ -9,17 +9,6 @@
         "all"
       ],
       "requiereCambioPassword": false
-    },
-    {
-      "username": "esther",
-      "password": "0962",
-      "nombre": "Esther (Colaboradora 3D)",
-      "esAdmin": false,
-      "permisos": [
-        "pantalla_3d",
-        "generar_pdf"
-      ],
-      "requiereCambioPassword": false
     }
   ]
 }
