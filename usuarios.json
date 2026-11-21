@@ -9,6 +9,18 @@
         "all"
       ],
       "requiereCambioPassword": false
+    },
+    {
+      "username": "esther",
+      "password": "Temp1234*",
+      "nombre": "Esther",
+      "esAdmin": false,
+      "permisos": [
+        "pantalla_3d",
+        "pantalla_chat",
+        "generar_pdf"
+      ],
+      "requiereCambioPassword": true
     }
   ]
 }
