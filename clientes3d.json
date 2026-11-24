@@ -66,6 +66,13 @@
       "nombre": "preuba 3d",
       "telefono": "",
       "correo": ""
+    },
+    {
+      "id": "1795495689540",
+      "tipoCliente": "Particular",
+      "nombre": "prueba2.0",
+      "telefono": "",
+      "correo": ""
     }
   ]
 }
