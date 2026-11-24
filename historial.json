@@ -15,10 +15,10 @@
       "esRegalo": false,
       "beneficio": 1.723605,
       "beneficioPuro": 1.723605,
-      "estado": "Aceptado",
-      "esFactura": false,
-      "numeroFactura": "",
-      "fechaFactura": ""
+      "estado": "Entregado",
+      "esFactura": true,
+      "numeroFactura": "FAC-2026-007",
+      "fechaFactura": "24/11/2026, 4:48:40"
     },
     {
       "id": "JRB-2026-007",
