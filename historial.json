@@ -16,21 +16,6 @@
       "fechaFactura": ""
     },
     {
-      "id": "JRB-2026-007",
-      "cliente": "preuba 3d",
-      "fecha": "24\/11\/2026, 3:31:56",
-      "gramos": 150,
-      "horas": 6,
-      "total": 6.147524356842041,
-      "regalo": false,
-      "beneficio": 1.7236050367355347,
-      "pdfUri": "",
-      "estado": "Aceptado",
-      "esFactura": false,
-      "numeroFactura": "",
-      "fechaFactura": ""
-    },
-    {
       "id": "JRB-2026-027",
       "cliente": "aruma",
       "fecha": "19\/11\/2026 21:41",
