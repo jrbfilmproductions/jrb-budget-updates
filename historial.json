@@ -1,6 +1,21 @@
 {
   "historial": [
     {
+      "id": "JRB-2026-039",
+      "cliente": "preuba 3d",
+      "fecha": "26\/11\/2026 21:12",
+      "gramos": 459,
+      "horas": 41.099998474121094,
+      "total": 63.361175537109375,
+      "regalo": false,
+      "beneficio": 17.764816284179688,
+      "pdfUri": "",
+      "estado": "Pendiente",
+      "esFactura": false,
+      "numeroFactura": "",
+      "fechaFactura": ""
+    },
+    {
       "id": "JRB-2026-038",
       "cliente": "saro",
       "fecha": "24\/11\/2026 23:47",
