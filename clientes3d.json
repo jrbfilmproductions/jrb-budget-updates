@@ -63,16 +63,38 @@
     {
       "id": "1795491116401",
       "tipoCliente": "Particular",
+      "nombreOrganizacion": "",
+      "personaContacto": "",
       "nombre": "preuba 3d",
+      "dni": "",
+      "direccion": "",
       "telefono": "",
-      "correo": ""
+      "correo": "",
+      "redesSociales": ""
     },
     {
       "id": "1795495689540",
       "tipoCliente": "Particular",
+      "nombreOrganizacion": "",
+      "personaContacto": "",
       "nombre": "prueba2.0",
+      "dni": "",
+      "direccion": "",
       "telefono": "",
-      "correo": ""
+      "correo": "",
+      "redesSociales": ""
+    },
+    {
+      "id": "1795787348315",
+      "tipoCliente": "Particular",
+      "nombreOrganizacion": "",
+      "personaContacto": "",
+      "nombre": "pepe",
+      "dni": "",
+      "direccion": "",
+      "telefono": "",
+      "correo": "",
+      "redesSociales": ""
     }
   ]
 }
